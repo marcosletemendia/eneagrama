@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-        MercadoPagoLaravel\Providers\MercadoPagoServiceProvider::class,
+
         /*
          * Application Service Providers...
          */
