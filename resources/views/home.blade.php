@@ -24,7 +24,7 @@
     <p class='satisfy'>¿Cuál eneatipo soy? ¿Cómo saber mi eneatipo? </p>
     <p >El test de eneatipo te permite conocer qué eneatipo sos. </p>
 
-    <a href="/test" class='algo'>Descubrí quién sos</a>
+    <a href="/pag1t" class='algo'>Descubrí tu eneatipo</a>
       </div>
   </div>
 

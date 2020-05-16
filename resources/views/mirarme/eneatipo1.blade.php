@@ -12,15 +12,14 @@
       </p>
 
       <ol>
-         <li>Su autoimagen lo lleva a verse como <i> honrado, racional, objetivo, con-
-            trolador.</i>
+         <li>Su autoimagen lo lleva a verse como <i> honrado, racional, objetivo, controlador.</i>
          </li>
-         <li>Tiende a ser visto como<i>honesto, escrupuloso, formal, intransigente,
+         <li>Tiende a ser visto como honesto, escrupuloso, formal, intransigente,
             irritable.</i>
          </li>
          <li>Se reconoce con la <i>perfección, Juzga de manera instintiva.</i> </li>
-         <li>En general busca<i>evitar la cólera, porque no es correcto irritarse.</i> </li>
-         <li>Aspira a ser mejor.<i>ser mejor.</i> </li>
+         <li>En general busca evitar la cólera, porque no es correcto irritarse.</i> </li>
+         <li>Aspira a ser mejor.</li>
          <li>La vida para el UNO es un <i>heroísmo moral. </i> </li>
          <li>El verbo con el que se identifica es <i>organizar-ordenar.</i> </li>
          <li>Frente al dinero, su actitud es de administrarlo . <i>Cuida el propio y el ajeno.</i> </li>

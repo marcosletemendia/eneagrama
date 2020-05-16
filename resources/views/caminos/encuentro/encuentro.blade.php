@@ -8,8 +8,7 @@
       <h2>Encuentro consigo mismo</h2>
       <p>Se denomina proceso de auto-encuentro al camino que se inicia para tomar de
          los otros eneatipos aquellos atributos que ayudarán a desarmar una dinámica
-         perjudicial que llevó a generar la necesidad distintiva de autoestima, alejándolo
-         de sí mismo.
+         perjudicial que llevó a generar una necesidad distintiva, alejándolo de sí mismo.
       </p>
       <ol>
          <li><a href="encuentro1">Dinámica del UNO</a></li>

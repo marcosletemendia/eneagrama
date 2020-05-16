@@ -18,7 +18,7 @@
          proyecto, sin evidenciar el esfuerzo que conlleva.
       </p>
       <p>Prefiere la variedad más que el cuidado de los detalles; la productividad,
-         más que la elaboración teórica. Le gusta avocarse a muchos proyectos
+         más que la elaboración teórica. Le gusta abocarse a muchos proyectos
          simultáneamente, demostrando excepcionales aptitudes para pasar de la propuesta
          de una idea, a la realización de la misma. Se nutre del reconocimiento
          de sus logros.
