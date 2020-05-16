@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Alas del CINCO</h2>
       <div>
-         <img src="/storage/alas5.png" class="img_enea">
+         <img src="/img/individual5.jpg" class="img_enea">
       </div>
       <p>Las alas del CINCO son: el <a href="/mirarme/eneatipo4">CUATRO</a> y el <a href="/mirarme/eneatipo6">SEIS.</a>
       </p>

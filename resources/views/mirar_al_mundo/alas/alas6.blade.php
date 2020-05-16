@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Alas del SEIS</h2>
       <div>
-         <img src="/storage/alas6.png" class="img_enea">
+         <img src="/img/individual6.jpg" class="img_enea">
       </div>
       <p>Las alas del SEIS son: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo7">SIETE.</a>
       </p>

@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Alas del OCHO</h2>
       <div>
-         <img src="/storage/alas8.png" class="img_enea">
+         <img src="/img/individual8.jpg" class="img_enea">
       </div>
       <p>Las alas del OCHO son: el <a href="/mirarme/eneatipo7">SIETE</a> y el <a href="/mirarme/eneatipo9">NUEVE.</a>
       </p>

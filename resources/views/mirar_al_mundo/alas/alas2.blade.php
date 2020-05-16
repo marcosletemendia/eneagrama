@@ -9,7 +9,7 @@
       <h2>Alas del DOS</h2>
 
       <div>
-         <img src="/storage/alas2.png" class="img_enea">
+         <img src="/img/individual2.jpg" class="img_enea">
       </div>
       <p>Las alas del DOS son: el <a href="/mirarme/eneatipo1">UNO</a> y <a href="/mirarme/eneatipo3">el TRES.</a>
       </p>
