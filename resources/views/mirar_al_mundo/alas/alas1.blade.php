@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Alas del UNO</h2>
       <div>
-         <img src="/storage/alas1.png" class="img_enea">
+         <img src="/img/individual1.jpg" class="img_enea">
       </div>
       <p>Las alas del UNO son: el <a href="/mirarme/eneatipo9">NUEVE</a> y <a href="/mirarme/eneatipo2">el DOS.</a>
       </p>

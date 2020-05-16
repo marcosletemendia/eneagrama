@@ -11,7 +11,7 @@
   <body>
     <header>
       <nav>
-        <a href="/home"><img src="img/logo.jpg" alt="Logo"></a>
+        <a href="/home"><img src="/img/logo.jpg" alt="Logo"></a>
         <div class="logo">
           <i class="fas fa-bars" id='subnavbtn2'></i>
           <div class="enlaces">

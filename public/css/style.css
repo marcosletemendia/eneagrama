@@ -166,8 +166,7 @@ nav a img{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: Red;
-  background-image: url('/storage/mapa.png');
+  background-image: url('img1.png');
   background-size: contain;
   border-radius: 1%;
 }
@@ -293,7 +292,7 @@ nav a img{
 
 }
 .doing p{
-  
+
 }
 .warning p a{
   color:red;

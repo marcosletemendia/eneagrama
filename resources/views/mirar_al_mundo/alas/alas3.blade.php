@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Alas del TRES</h2>
       <div>
-         <img src="/storage/alas3.png" class="img_enea">
+         <img src="/img/individual3.jpg" class="img_enea">
       </div>
       <p>Las alas del TRES son: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo4">CUATRO.</a>
       </p>
