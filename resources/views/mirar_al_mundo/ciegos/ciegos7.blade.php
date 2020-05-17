@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Puntos ciegos del SIETE</h2>
       <div>
-         <img src="/img/ciego7.jpg" class="img_enea">
+         <img src="/img/ciego7.png" class="img_enea">
       </div>
       <p>El SIETE es ciego al eje de la interioridad, representado por el <a href="/mirarme/eneatipo4">CUATRO</a> y <a href="/mirarme/eneatipo9">NUEVE</a>
          el en cada extremo. En modos opuestos complementarios, el CUATRO y NUEVE

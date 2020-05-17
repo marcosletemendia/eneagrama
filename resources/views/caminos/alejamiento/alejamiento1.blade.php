@@ -25,8 +25,7 @@
       </p>
       <h3>En relación con los demás</h3>
       <p>El UNO, a fin de no mostrar inseguridad, producto de su necesidad distintiva
-         de autoestima, muestra su perfeccionismo  tanto más muestre su 
-         perfeccionismo  tanto más será percibido como rígido, criticón y dogmático.</p>
+         de autoestima, muestra su perfeccionismo  tanto más muestre su <i class="fas fa-arrow-right"></i> perfeccionismo <i class="fas fa-arrow-right"></i> tanto más será percibido como rígido, criticón y dogmático.</p>
          <ol>
            <li><a href="/alejamiento/alejamiento1">Dinámica del UNO</a></li>
            <li><a href="/alejamiento/alejamiento2">Dinámica del DOS</a></li>

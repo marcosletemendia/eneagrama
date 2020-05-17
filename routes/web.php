@@ -146,18 +146,144 @@ Route::get('/mirar_al_mundo/ciegos/ciegos8', function () {
 Route::get('/mirar_al_mundo/ciegos/ciegos9', function () {
     return view('/mirar_al_mundo/ciegos/ciegos9');
 });
+
+
+
+
 Route::get('/herida', function () {
-    return view('/herida');
+    return view('/comienzo/herida/herida');
 });
+Route::get('/herida1', function () {
+    return view('/comienzo/herida/herida1');
+});
+Route::get('/herida2', function () {
+    return view('/comienzo/herida/herida2');
+});
+Route::get('/herida3', function () {
+    return view('/comienzo/herida/herida3');
+});
+Route::get('/herida4', function () {
+    return view('/comienzo/herida/herida4');
+});
+Route::get('/herida5', function () {
+    return view('/comienzo/herida/herida5');
+});
+Route::get('/herida6', function () {
+    return view('/comienzo/herida/herida6');
+});
+Route::get('/herida7', function () {
+    return view('/comienzo/herida/herida7');
+});
+Route::get('/herida8', function () {
+    return view('/comienzo/herida/herida8');
+});
+Route::get('/herida9', function () {
+    return view('/comienzo/herida/herida9');
+});
+
+
 Route::get('/vincularidad', function () {
-    return view('/vincularidad');
+    return view('/comienzo/vincularidad/vincularidad');
 });
+Route::get('/vincularidad1', function () {
+    return view('/comienzo/vincularidad/vincularidad1');
+});
+Route::get('/vincularidad2', function () {
+    return view('/comienzo/vincularidad/vincularidad2');
+});
+Route::get('/vincularidad3', function () {
+    return view('/comienzo/vincularidad/vincularidad3');
+});
+Route::get('/vincularidad4', function () {
+    return view('/comienzo/vincularidad/vincularidad4');
+});
+Route::get('/vincularidad5', function () {
+    return view('/comienzo/vincularidad/vincularidad5');
+});
+Route::get('/vincularidad6', function () {
+    return view('/comienzo/vincularidad/vincularidad6');
+});
+Route::get('/vincularidad7', function () {
+    return view('/comienzo/vincularidad/vincularidad7');
+});
+Route::get('/vincularidad8', function () {
+    return view('/comienzo/vincularidad/vincularidad8');
+});
+Route::get('/vincularidad9', function () {
+    return view('/comienzo/vincularidad/vincularidad9');
+});
+
+
+
 Route::get('/energia', function () {
-    return view('/energia');
+    return view('/comienzo/energia/energia');
 });
+Route::get('/energia1', function () {
+    return view('/comienzo/energia/energia1');
+});Route::get('/energia', function () {
+    return view('/comienzo/energia/energia');
+});
+Route::get('/energia2', function () {
+    return view('/comienzo/energia/energia2');
+});
+Route::get('/energia3', function () {
+    return view('/comienzo/energia/energia3');
+});
+Route::get('/energia4', function () {
+    return view('/comienzo/energia/energia4');
+});
+Route::get('/energia5', function () {
+    return view('/comienzo/energia/energia5');
+});
+Route::get('/energia6', function () {
+    return view('/comienzo/energia/energia6');
+});
+Route::get('/energia7', function () {
+    return view('/comienzo/energia/energia7');
+});
+Route::get('/energia8', function () {
+    return view('/comienzo/energia/energia8');
+});
+Route::get('/energia9', function () {
+    return view('/comienzo/energia/energia9');
+});
+
+
+
 Route::get('/distintiva', function () {
-    return view('/distintiva');
+    return view('/comienzo/distintiva/distintiva');
 });
+Route::get('/distintiva1', function () {
+    return view('/comienzo/distintiva/distintiva1');
+});
+Route::get('/distintiva2', function () {
+    return view('/comienzo/distintiva/distintiva2');
+});
+Route::get('/distintiva3', function () {
+    return view('/comienzo/distintiva/distintiva3');
+});
+Route::get('/distintiva4', function () {
+    return view('/comienzo/distintiva/distintiva4');
+});
+Route::get('/distintiva5', function () {
+    return view('/comienzo/distintiva/distintiva5');
+});
+Route::get('/distintiva6', function () {
+    return view('/comienzo/distintiva/distintiva6');
+});
+Route::get('/distintiva7', function () {
+    return view('/comienzo/distintiva/distintiva7');
+});
+Route::get('/distintiva8', function () {
+    return view('/comienzo/distintiva/distintiva8');
+});
+Route::get('/distintiva9', function () {
+    return view('/comienzo/distintiva/distintiva9');
+});
+
+
+
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
