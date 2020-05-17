@@ -33,7 +33,7 @@
          <li>Al OCHO, pasar del arrebato a auto-dominio. Le dice: <i>CONTROLATE</i>.</li>
          <li>Al NUEVE, pasar de la inercia a la iniciativa. Le dice: <i>MOVETE</i>.</li>
       </ul>
-      <h3 id='dar2'> El UNO da</h3>
+      <h3 id='dar2'> El DOS da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El DOS le regala:
@@ -53,7 +53,7 @@
          <li>Al NUEVE, pasar de la indiferencia al compromiso afectivo. Le dice:
             <i>ACERCATE</i>.</li>
       </ul>
-      <h3 id='dar3'> El UNO da</h3>
+      <h3 id='dar3'> El TRES da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El TRES le regala:
@@ -70,7 +70,7 @@
          <li>Al OCHO, pasar del ímpetu a la acción efectiva. Le dice: <i>SÉ PRAGMÁTICO</i>.</li>
          <li>Al NUEVE, pasar de la pasividad a la acción. Le dice: <i>HACÉ</i>.</li>
       </ul>
-      <h3 id='dar4'> El UNO da</h3>
+      <h3 id='dar4'> El CUATRO da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El CUATRO le regala:
@@ -88,7 +88,7 @@
          <li>Al NUEVE, pasar de mimetizarse a la autenticidad. Le dice: SÉ
             <i>GENUINO</i>.</li>
       </ul>
-      <h3 id='dar5'> El UNO da</h3>
+      <h3 id='dar5'> El CINCO da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El CINCO le regala:
@@ -105,7 +105,7 @@
          <li>Al NUEVE, pasar de callar, para no confrontar; a callar, por no tener
             nada que agregar. Le dice: <i>DISCERNÍ</i>.</li>
       </ul>
-      <h3 id='dar6'> El UNO da</h3>
+      <h3 id='dar6'> El SEIS da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El SEIS le regala:
@@ -120,7 +120,7 @@
          <li>Al OCHO, pasar de liderar a colaborar. Le dice: <i>COOPERÁ</i>.</li>
          <li>Al NUEVE, pasar de la imparcialidad a la preferencia. Le dice: <i>COMPROMETETE</i>.</li>
       </ul>
-      <h3 id='dar7'> El UNO da</h3>
+      <h3 id='dar7'> El SIETE da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El SIETE le regala:
@@ -135,7 +135,7 @@
          <li>Al OCHO, pasar de torturarse a liberarse. Le dice: <i>ABANDONATE</i>.</li>
          <li>Al NUEVE, pasar de quedarse a salir. Le dice: <i>DIVERTITE</i>.</li>
       </ul>
-      <h3 id='dar8'> El UNO da</h3>
+      <h3 id='dar8'> El OCHO da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El OCHO le regala:
@@ -154,7 +154,7 @@
          <li>Al SIETE, pasar de evadir a sostener. Le dice: <i>ENFRENTÁ</i>.</li>
          <li>Al NUEVE, pasar de la neutralidad a la pasión. Le dice: <i>JUGATE</i>.</li>
       </ul>
-      <h3 id='dar9'> El UNO da</h3>
+      <h3 id='dar9'> El NUEVE da</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo. El NUEVE le regala:

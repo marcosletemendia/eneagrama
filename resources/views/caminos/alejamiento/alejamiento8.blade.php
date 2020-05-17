@@ -23,15 +23,15 @@
          se muestre, más será percibido como peleador y dictatorial.
       </p>
       <ol>
-         <li><a href="/alejamiento/alejamiento1">Dinámica de UNO</a></li>
-         <li><a href="/alejamiento/alejamiento2">Dinámica del DOS</a></li>
-         <li><a href="/alejamiento/alejamiento3">Dinámica del TRES</a></li>
-         <li><a href="/alejamiento/alejamiento4">Dinámica del CUATRO</a></li>
-         <li><a href="/alejamiento/alejamiento5">Dinámica del CINCO</a></li>
-         <li><a href="/alejamiento/alejamiento6">Dinámica del SEIS</a></li>
-         <li><a href="/alejamiento/alejamiento7">Dinámica del SIETE</a></li>
-         <li><a href="/alejamiento/alejamiento">Alejamiento</a></li>
-         <li><a href="/alejamiento/alejamiento9">Dinámica del NUEVE</a></li>
+        <li><a href="/alejamiento/alejamiento1">Dinámica del UNO</a></li>
+        <li><a href="/alejamiento/alejamiento2">Dinámica del DOS</a></li>
+        <li><a href="/alejamiento/alejamiento3">Dinámica del TRES</a></li>
+        <li><a href="/alejamiento/alejamiento4">Dinámica del CUATRO</a></li>
+        <li><a href="/alejamiento/alejamiento5">Dinámica del CINCO</a></li>
+        <li><a href="/alejamiento/alejamiento6">Dinámica del SEIS</a></li>
+        <li><a href="/alejamiento/alejamiento7">Dinámica del SIETE</a></li>
+        <li><a href="/alejamiento/alejamiento8">Dinámica del OCHO</a></li>
+        <li><a href="/alejamiento/alejamiento9">Dinámica del NUEVE</a></li>
       </ol>
    </div>
 @endsection

@@ -7,7 +7,7 @@
 
    <div class="central">
       <h2>Dinámica del UNO</h2>
-      <p>En el <a href="/mirarme/eneatipo1">UNO</a>, la relación consigo mismo y la reclación con los demás
+      <p>En el UNO, la relación consigo mismo y la reclación con los demás
          están vinculadas a la necesidad distintiva de autoestima.
       </p>
       <h3>En relación consigo mismo:</h3>
@@ -25,18 +25,18 @@
       </p>
       <h3>En relación con los demás</h3>
       <p>El UNO, a fin de no mostrar inseguridad, producto de su necesidad distintiva
-         de autoestima, muestra su perfeccionismo tanto más muestre su
+         de autoestima, muestra su perfeccionismo  tanto más muestre su 
          perfeccionismo  tanto más será percibido como rígido, criticón y dogmático.</p>
          <ol>
-            <li><a href="/alejamiento/alejamiento">Alejamiento</a></li>
-            <li><a href="/alejamiento/alejamiento2">Dinámica del DOS</a></li>
-            <li><a href="/alejamiento/alejamiento3">Dinámica del TRES</a></li>
-            <li><a href="/alejamiento/alejamiento4">Dinámica del CUATRO</a></li>
-            <li><a href="/alejamiento/alejamiento5">Dinámica del CINCO</a></li>
-            <li><a href="/alejamiento/alejamiento6">Dinámica del SEIS</a></li>
-            <li><a href="/alejamiento/alejamiento7">Dinámica del SIETE</a></li>
-            <li><a href="/alejamiento/alejamiento8">Dinámica del OCHO</a></li>
-            <li><a href="/alejamiento/alejamiento9">Dinámica del NUEVE</a></li>
+           <li><a href="/alejamiento/alejamiento1">Dinámica del UNO</a></li>
+           <li><a href="/alejamiento/alejamiento2">Dinámica del DOS</a></li>
+           <li><a href="/alejamiento/alejamiento3">Dinámica del TRES</a></li>
+           <li><a href="/alejamiento/alejamiento4">Dinámica del CUATRO</a></li>
+           <li><a href="/alejamiento/alejamiento5">Dinámica del CINCO</a></li>
+           <li><a href="/alejamiento/alejamiento6">Dinámica del SEIS</a></li>
+           <li><a href="/alejamiento/alejamiento7">Dinámica del SIETE</a></li>
+           <li><a href="/alejamiento/alejamiento8">Dinámica del OCHO</a></li>
+           <li><a href="/alejamiento/alejamiento9">Dinámica del NUEVE</a></li>
          </ol>
    </div>
 @endsection

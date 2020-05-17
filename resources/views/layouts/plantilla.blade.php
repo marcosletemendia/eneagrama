@@ -57,9 +57,9 @@
             <div class="a">
               <button class="subnavbtn"> <p> MISION DE VIDA</p> </button>
               <div class='subnav-content'>
-                <a href="final"> <p> AL FINAL DEL CAMINO </p></a>
                 <a href="recibir1"> <p>RECIBIR</p></a>
                 <a href="dar1"><p>DAR</p></a>
+                <a href="final"> <p> AL FINAL DEL CAMINO </p></a>
               </div>
             </div>
 
