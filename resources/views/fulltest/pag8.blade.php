@@ -7,7 +7,9 @@
 
    <div class="central">
       <h2>Test</h2>
-      <img src="/storage/barraProgreso7.png" alt="">
+      <div class="barratest">
+        <img id="imgbarra" src="/img/barra7.jpg" alt="">
+      </div>
       <form class="form" action="/pag9" method="post">
          {{ csrf_field() }}
          @foreach ($req->request as $re)

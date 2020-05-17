@@ -181,9 +181,9 @@ nav a img{
 }
 @media (max-width: 370px) and (min-width: 320px) {
   .test{
-    width: 96%;
+    width: 85%;
     margin: auto;
-    height: 10rem;
+    height: 9rem;
   }
 }
 @media (max-width: 380px) and (min-width: 370px) {
@@ -195,9 +195,9 @@ nav a img{
 }
 @media (max-width: 425px) and (min-width: 380px) {
   .test{
-    width: 75%;
+    width: 80%;
     margin: auto;
-    height:9rem;
+    height:10rem;
   }
 }
 @media (max-width: 465px) and (min-width: 426px) {
@@ -238,7 +238,7 @@ nav a img{
 @media (max-width: 1141px) and (min-width: 1024px) {
   .test{
     width: 34%;
-    height:9rem;
+    height:8.5rem;
     margin-top: 3%;
   }
 }
@@ -263,7 +263,34 @@ nav a img{
     margin-top: 3%;
   }
 }
-
+@media (max-width:1865 px) and (min-width: 1701px) {
+  .test{
+    width: 30%;
+    height:14rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width:2100 px) and (min-width: 1865px) {
+  .test{
+    width: 30%;
+    height:16rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width:2340 px) and (min-width: 2100px) {
+  .test{
+    width: 35%;
+    height:18rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width:2670 px) and (min-width: 2340px) {
+  .test{
+    width: 31%;
+    height:20rem;
+    margin-top: 3%;
+  }
+}
 .central{
   background-color: #fff;
   margin-top: 3%;
@@ -534,5 +561,16 @@ nav a img{
     margin-left: 2%;
     margin-right: 2%;
   }
-
+}
+#imgFinal{
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+.barratest{
+  overflow: hidden;
+}
+#imgbarra{
+  width: 88%;
+  margin-left: 6%;
 }

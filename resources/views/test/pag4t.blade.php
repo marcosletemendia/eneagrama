@@ -11,7 +11,10 @@
 
 
       <p>Esta es la version abreviada del Test, si no esta seguro del resultado, le sugerimos hacer el <a href="/fulltest">TEST COMPLETO</a></p>
-      </div>      <img src="/storage/barraProgreso3.png" alt="">
+    </div>
+    <div class="barratest">
+      <img id="imgbarra" src="/img/barra3.jpg" alt="">
+    </div>
       <form class="form" action="/pag5t" method="post">
          {{ csrf_field() }}
          @foreach ($req->request as $re)

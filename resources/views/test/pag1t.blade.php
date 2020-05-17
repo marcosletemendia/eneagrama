@@ -13,7 +13,9 @@
       <div class="doing">
               <p> Elija las opciones que le representa</p>
       </div>
-       <img src="/storage/barraProgreso0.png" alt="">
+      <div class="barratest">
+        <img id="imgbarra" src="/img/barra0.jpg" alt="">
+      </div>
       <form class="form" action="/pag2t" method="post">
             {{ csrf_field() }}
          @foreach ($preguntas as $pregunta)

@@ -28,7 +28,7 @@
          nosotros mismos, a lo largo del camino...
       </p>
       <div class="divTabla">
-         <img src="/img/tabla_eneagramas.jpg" alt="">
+         <img id="imgFinal"src="/img/tabla_eneagramas.jpg" alt="">
       </div>
    </div>
 @endsection
