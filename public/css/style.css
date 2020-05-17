@@ -157,16 +157,17 @@ nav a img{
 }
 
 .test{
-  margin-top: 2%;
+  margin-top: 3%;
   margin-bottom: 2%;
   margin-left: 0.5%;
+  margin-right: 0.5%;
   box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.2);
   width: 100%;
-  height: 14rem;
+  height: 9rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('img1.png');
+  background-image: url('../img/img1.1.png');
   background-size: contain;
   border-radius: 1%;
 }
@@ -176,7 +177,93 @@ nav a img{
 .test h1 a{
   text-decoration: none;
   color:#000;
+  font-size: 123%;
 }
+@media (max-width: 370px) and (min-width: 320px) {
+  .test{
+    width: 96%;
+    margin: auto;
+    height: 10rem;
+  }
+}
+@media (max-width: 380px) and (min-width: 370px) {
+  .test{
+    width: 81%;
+    margin: auto;
+    height:9rem;
+  }
+}
+@media (max-width: 425px) and (min-width: 380px) {
+  .test{
+    width: 75%;
+    margin: auto;
+    height:9rem;
+  }
+}
+@media (max-width: 465px) and (min-width: 426px) {
+  .test{
+    width: 69%;
+    margin: auto;
+    height:9rem;
+  }
+}
+@media (max-width: 539px) and (min-width: 465px) {
+  .test{
+    width: 59%;
+    margin: auto;
+    height:9rem;
+  }
+}
+@media (max-width: 599px) and (min-width: 539px) {
+  .test{
+    width: 52%;
+    margin: auto;
+    height:9rem;
+  }
+}
+@media (max-width: 880px) and (min-width: 600px) {
+  .test{
+    width: 40%;
+    height:7rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width: 1024px) and (min-width: 881px) {
+  .test{
+    width: 45%;
+    height:9rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width: 1141px) and (min-width: 1024px) {
+  .test{
+    width: 34%;
+    height:9rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width:1264 px) and (min-width: 1142px) {
+  .test{
+    width: 30%;
+    height:9rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width: 1500px) and (min-width: 1265px) {
+  .test{
+    width: 30%;
+    height:11rem;
+    margin-top: 3%;
+  }
+}
+@media (max-width:1700 px) and (min-width: 1500px) {
+  .test{
+    width: 35%;
+    height:13rem;
+    margin-top: 3%;
+  }
+}
+
 .central{
   background-color: #fff;
   margin-top: 3%;
@@ -398,10 +485,6 @@ nav a img{
   section{
     display: flex;
     justify-content: space-between;
-  }
-  .test{
-    width:20%;
-    margin-top: 3%;
   }
   .central{
     width: 57%;

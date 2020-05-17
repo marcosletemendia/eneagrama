@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del SEIS</h2>
       <div>
-         <img src="/storage/ejes6.png" class="img_enea">
+         <img src="/img/ejes6.jpg" class="img_enea">
       </div>
       <p>El SEIS y el UNO constituyen el <i>eje del deber ser</i>. El UNO es “el idealista”.
          Siente visceralmente la lucha entre el bien y el mal y tiende a ser objetivo y

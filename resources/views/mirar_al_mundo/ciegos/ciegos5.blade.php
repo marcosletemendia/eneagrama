@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Puntos ciegos del CINCO</h2>
       <div>
-         <img src="/storage/ciego5.png" class="img_enea">
+         <img src="/img/ciego5.jpg" class="img_enea">
       </div>
       <p>El CINCO es ciego al eje de la exterioridad, representado por el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo3">TRES</a>
          en cada extremo. En modos opuestos complementarios, el DOS y el TRES le

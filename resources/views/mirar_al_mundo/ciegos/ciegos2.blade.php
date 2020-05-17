@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Puntos ciegos del DOS</h2>
       <div>
-         <img src="/storage/ciego2.png" class="img_enea">
+         <img src="/img/ciego2.jpg" class="img_enea">
       </div>
       <p>El DOS es ciego al <i>eje de la contemplación</i>, representado por el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo9">NUEVE</a>
          en cada extremo. En modos opuestos complementarios, el CINCO Y el NUEVE

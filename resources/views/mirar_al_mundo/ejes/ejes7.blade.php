@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del SIETE</h2>
       <div>
-         <img src="/storage/ejes7.png" class="img_enea">
+         <img src="/img/ejes7.jpg" class="img_enea">
       </div>
       <p>El SIETE y el TRES y constituyen el <i>eje de la imagen</i>. El TRES es el “exitoso”.
          Le resulta fácil llevar a cabo sus cometidos de manera efectiva y competente,

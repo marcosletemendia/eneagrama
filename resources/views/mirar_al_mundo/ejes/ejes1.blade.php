@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del UNO</h2>
       <div>
-         <img src="/storage/ejes1.png" class="img_enea">
+         <img src="/img/ejes1.jpg" class="img_enea">
       </div>
       <p>Cada eneatipo tiene dos eneatipos consonantes, con los cuales constituye un
          eje. El UNO y el CINCO constituyen el <i>eje del orden</i>. El CINCO es “el observador”,

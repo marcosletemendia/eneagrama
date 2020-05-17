@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Brazos del UNO</h2>
       <div>
-         <img src="/storage/brazos1.png" class="img_enea">
+         <img src="/img/brazos1.jpg" class="img_enea">
       </div>
       <p>Los brazos del UNO son: el <a href="/mirarme/eneatipo4">CUATRO</a> y el <a href="/mirarme/eneatipo7">SIETE.</a> En un
          primer momento, el UNO se siente identificado con aspectos del CUATRO y,

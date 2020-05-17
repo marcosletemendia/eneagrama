@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Brazos del OCHO</h2>
       <div>
-         <img src="/storage/brazos8.png" class="img_enea">
+         <img src="/img/brazos8.jpg" class="img_enea">
       </div>
       <p>Los brazos del OCHO son: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo2">DOS.</a> En un primer
          momento, el OCHO se siente identificado con los aspectos del CINCO y,

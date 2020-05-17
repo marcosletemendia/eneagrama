@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del CINCO</h2>
       <div>
-         <img src="/storage/ejes5.png" class="img_enea">
+         <img src="/img/ejes5.jpg" class="img_enea">
       </div>
       <p>El CINCO y el UNO constituyen <i>el eje del orden</i>. El UNO es “el idealista”. Su
          energía se canaliza en el esfuerzo por mejorar la realidad, tanto dentro como

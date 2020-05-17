@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del OCHO</h2>
       <div>
-         <img src="/storage/ejes8.png" class="img_enea">
+         <img src="/img/ejes8.jpg" class="img_enea">
       </div>
       <p>El OCHO y TRES constituyen el <i>eje de la independencia</i>. El TRES es el “exitoso”.
          Le resulta fácil llevar a cabo sus cometidos de manera efectiva y competente,

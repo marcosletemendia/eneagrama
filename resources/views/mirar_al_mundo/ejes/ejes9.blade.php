@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del NUEVE</h2>
       <div>
-         <img src="/storage/ejes9.png" class="img_enea">
+         <img src="/img/ejes9.jpg" class="img_enea">
       </div>
       <p>El NUEVE y el CUATRO constituyen el <i>eje de la interioridad</i>. El CUATRO es
          “el creativo”. Siente intensamente la energía de la vida. Lo caracteriza una especial

@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Brazos del CUATRO</h2>
       <div>
-         <img src="/storage/brazos4.png" class="img_enea">
+         <img src="/img/brazos4.jpg" class="img_enea">
       </div>
       <p>Los brazos del CUATRO son: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo1">UNO.</a> En un primer
          momento, el CUATRO se siente identificado con los aspectos del DOS y,

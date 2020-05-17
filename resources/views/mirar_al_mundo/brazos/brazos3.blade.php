@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Brazos del TRES</h2>
       <div>
-         <img src="/storage/brazos3.png" class="img_enea">
+         <img src="/img/brazos3.jpg" class="img_enea">
       </div>
       <p>Los brazos del TRES son: el <a href="/mirarme/eneatipo9">NUEVE</a> y el <a href="/mirarme/eneatipo6">SEIS.</a> En un primer
          momento, el TRES se siente identificado con los aspectos del NUEVE y, posteriormente,

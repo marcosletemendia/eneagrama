@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Alas del CUATRO</h2>
       <div>
-         <img src="/img/individual4.jpg" class="img_enea">
+         <img src="/img/ala4.jpg" class="img_enea">
       </div>
       <p>Las alas del CUATRO son: el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo5">CINCO.</a>
       </p>

@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Brazos del DOS</h2>
       <div>
-         <img src="/storage/brazos2.png" class="img_enea">
+         <img src="/img/brazos2.jpg" class="img_enea">
       </div>
       <p>Los brazos del DOS son: el <a href="/mirarme/eneatipo8">OCHO</a> y el <a href="/mirarme/eneatipo4">CUATRO.</a> En un
          primer momento, el DOS se siente identificado con los aspectos del OCHO y,

@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del CUATRO</h2>
       <div>
-         <img src="/storage/ejes4.png" class="img_enea">
+         <img src="/img/ejes4.jpg" class="img_enea">
       </div>
       <p>El CUATRO y el OCHO constituyen el <i>eje de la fuerza</i>. El OCHO es el “líder”.
          Lo guían fuertes convicciones; trasmite sus ideas con decisión y realismo. El

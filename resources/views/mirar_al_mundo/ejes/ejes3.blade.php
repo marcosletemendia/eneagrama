@@ -8,7 +8,7 @@
    <div class="central">
       <h2>Ejes del TRES</h2>
       <div>
-         <img src="/storage/ejes3.png" class="img_enea">
+         <img src="/img/ejes3.jpg" class="img_enea">
       </div>
       <p>El TRES y el SIETE constituyen el <i>eje de la imagen</i>. El SIETE es el “optimista”,
          ha aprendido el arte de enmascarar el sufrimiento, centrando su atención
