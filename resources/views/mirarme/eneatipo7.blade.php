@@ -30,8 +30,8 @@
          <li>En relación a su cuerpo, <i>lo disfruta</i>.</li>
       </ol>
       <div class="comoSoy">
-        <a href="/trabajo/trabajo7" class='algo'>Como soy en el trabajo</a>
-        <a href="/amor/amor7" class='algo'>Como soy en el amor</a>
+        <a href="/trabajo/trabajo7" class="algo1" class='algo'>Como soy en el trabajo</a>
+        <a href="/amor/amor7" class="algo1" class='algo'>Como soy en el amor</a>
       </div>
    </div>
 

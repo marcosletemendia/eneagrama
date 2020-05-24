@@ -26,8 +26,8 @@
          <li>En relación a su cuerpo, <i>lo conserva saludable</i>.</li>
       </ol>
       <div class="comoSoy">
-        <a href="/trabajo/trabajo8" class='algo'>Como soy en el trabajo</a>
-        <a href="/amor/amor8" class='algo'>Como soy en el amor</a>
+        <a href="/trabajo/trabajo8" class="algo1" class='algo'>Como soy en el trabajo</a>
+        <a href="/amor/amor8" class="algo1" class='algo'>Como soy en el amor</a>
       </div>
    </div>
 

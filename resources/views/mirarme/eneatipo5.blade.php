@@ -29,8 +29,8 @@
          <li>En relación a su cuerpo, <i>se desconecta</i></li>
       </ol>
       <div class="comoSoy">
-        <a href="/trabajo/trabajo5" class='algo'>Como soy en el trabajo</a>
-        <a href="/amor/amor5" class='algo'>Como soy en el amor</a>
+        <a href="/trabajo/trabajo5" class="algo1" class='algo'>Como soy en el trabajo</a>
+        <a href="/amor/amor5" class="algo1" class='algo'>Como soy en el amor</a>
       </div>
    </div>
 

@@ -22,7 +22,7 @@
              </div>
            </div>
          @endforeach
-         <button type="submit" name="button">Siguiente</button>
+         <button class="botonf" type="submit" name="button">Siguiente</button>
       </form>
 
    </div>
