@@ -6,15 +6,17 @@
 
 
 }
-
+h3{
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+h2{
+  font-weight: bold;
+}
 body {
-   margin-top: 1%;
    background-color: #f2f4f3;
    color: #000;
 
-}
-header{
-  width:100%;
 }
 p{
   font-family: 'Josefin Sans', sans-serif;
@@ -23,21 +25,69 @@ p{
 }
 li{
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 20px;
+  font-size: 120%;
 }
-nav{
-  display: flex;
+/* NAVBAR */
+.navbar{
   background-color: #f2f4f3;
-  justify-content: space-between;
-  box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.1);
 }
-nav a{
-  width:20%;
+.dropdown-item:hover{
+  background-color: #E4E4E4;
 }
-nav a img{
-  margin-left: 6%;
-  width: 30%;
+#logoa{
+  width: 20%;
 }
+.linav{
+  width: 25%;
+  font-weight: bold;
+  font-size: 100%;
+}
+.navp{
+  width: fit-content;
+  margin: auto;
+  font-size: 17px;
+}
+#ul1{
+  margin: 0;
+  width: 100%;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  #logo{
+    width: 80%;
+  }
+  .nava{
+    width: fit-content;
+  }
+  .linav{
+    width: fit-content;
+  }
+  .arregloa{
+    font-size: 70%;
+  }
+}
+@media (min-width: 426px) and (max-width: 768px) {
+  #logo{
+    width: 40%;
+  }
+  .linav{
+    width: fit-content;
+  }
+}
+@media (min-width:769px) and (max-width:1024px) {
+  #logo{
+    width: 36%;
+  }
+}
+@media (min-width:1025px) {
+  #logo{
+    width: 30%;
+  }
+}
+.navbar-nav .dropdown-menu {
+    position: absolute;
+    float: unset;
+}
+
 .contenedor_pregunta{
   display: flex;
 }
@@ -96,7 +146,6 @@ nav a img{
 
 
 .logo{
-
   display: flex;
   flex-direction: column;
   align-content: flex-end;
@@ -135,29 +184,8 @@ nav a img{
     text-align: right;
     outline: none;
 }
-.subnav-content {
-  display: none;
-  background-color: #f2f4f3;
-  font-size: 20px; /* Increased text to enable scrolling */
-  width: 70%;
-  z-index: 1;
-}
-.subnav-content a {
-  float: none;
-  color: #000;
-  width: 100%;
-  text-align: center;
-  text-decoration: none;
-  display: block;
-  padding: 1%;
-
-}
-.subnav-content a p{
- font-size: 70%;
-}
 
 .test{
-  margin-top: 3%;
   margin-bottom: 2%;
   margin-left: 0.5%;
   margin-right: 0.5%;
@@ -177,27 +205,38 @@ nav a img{
 .test h1 a{
   text-decoration: none;
   color:#000;
-  font-size: 123%;
+  font-size: 100%;
+  font-weight: bold;
 }
 @media (max-width: 370px) and (min-width: 320px) {
   .test{
-    width: 85%;
+    width: 83%;
     margin: auto;
-    height: 9rem;
+    margin-bottom: 1%;
+    height: 8.2rem;
+  }
+  #logo{
+    width: 75%;
   }
 }
 @media (max-width: 380px) and (min-width: 370px) {
   .test{
     width: 81%;
     margin: auto;
-    height:9rem;
+    height:8rem;
+  }
+  #logo{
+    width: 70%;
   }
 }
 @media (max-width: 425px) and (min-width: 380px) {
   .test{
     width: 80%;
     margin: auto;
-    height:10rem;
+    height:9.7rem;
+  }
+  #logo{
+    width: 65%;
   }
 }
 @media (max-width: 465px) and (min-width: 426px) {
@@ -206,12 +245,18 @@ nav a img{
     margin: auto;
     height:9rem;
   }
+  #logo{
+    width: 60%;
+  }
 }
 @media (max-width: 539px) and (min-width: 465px) {
   .test{
     width: 59%;
     margin: auto;
     height:9rem;
+  }
+  #logo{
+    width: 50%;
   }
 }
 @media (max-width: 599px) and (min-width: 539px) {
@@ -220,80 +265,87 @@ nav a img{
     margin: auto;
     height:9rem;
   }
+  #logo{
+    width: 45%;
+  }
 }
 @media (max-width: 880px) and (min-width: 600px) {
   .test{
     width: 40%;
-    height:7rem;
-    margin-top: 3%;
+    height:6rem;
+  }
+  #logo{
+    width: 40%;
+  }
+  .test h1 a{
+    font-size: 60%;
   }
 }
 @media (max-width: 1024px) and (min-width: 881px) {
   .test{
     width: 45%;
-    height:9rem;
-    margin-top: 3%;
+    height:7.7rem;
+  }
+  #logo{
+    width: 40%;
   }
 }
 @media (max-width: 1141px) and (min-width: 1024px) {
   .test{
     width: 34%;
-    height:8.5rem;
-    margin-top: 3%;
+    height:8rem;
+  }
+  #logo{
+    width: 30%;
   }
 }
 @media (max-width:1264px) and (min-width: 1142px) {
   .test{
     width: 30%;
     height:9rem;
-    margin-top: 3%;
+  }
+  #logo{
+    width: 30%;
   }
 }
 @media (max-width: 1500px) and (min-width: 1265px) {
   .test{
     width: 30%;
-    height:11rem;
-    margin-top: 3%;
+    height:10rem;
   }
 }
 @media (max-width:1700px) and (min-width: 1500px) {
   .test{
     width: 35%;
-    height:13rem;
-    margin-top: 3%;
+    height:11.5rem;
   }
 }
 @media (max-width:1865px) and (min-width: 1701px) {
   .test{
     width: 30%;
-    height:14rem;
-    margin-top: 3%;
+    height:12.5rem;
   }
 }
 @media (max-width:2100px) and (min-width: 1865px) {
   .test{
     width: 30%;
-    height:16rem;
-    margin-top: 3%;
+    height:13.5rem;
   }
 }
 @media (max-width:2340px) and (min-width: 2100px) {
   .test{
     width: 35%;
-    height:18rem;
-    margin-top: 3%;
+    height:15.5rem;
   }
 }
 @media (max-width:2670px) and (min-width: 2340px) {
   .test{
     width: 31%;
-    height:20rem;
-    margin-top: 3%;
+    height:18rem;
   }
 }
 .central{
   background-color: #fff;
-  margin-top: 3%;
   margin-bottom: 2%;
   box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.2);
   flex-direction: column;
@@ -318,6 +370,7 @@ nav a img{
   align-items: center;
   text-align: center;
   line-height: 150%;
+  margin: 3%;
 }
 .central ul{
   padding: 6%;
@@ -465,9 +518,6 @@ nav a img{
     list-style: none;
 
   }
-  nav img{
-    width: 80%;
-  }
   .subnavbtn2{
     display: none;
   }
@@ -481,7 +531,7 @@ nav a img{
   .logo:hover .enlaces{
     display: flex;
     position: absolute;
-    width: 75%;
+    width: 80%;
   }
   .enlaces{
     background-color: #f2f4f3;
@@ -501,11 +551,6 @@ nav a img{
     text-align: center;
 
   }
-  .subnav-content a{
-    padding-top: 2%;
-    padding-bottom: 2%;
-    width:100%;
-  }
   #subnavbtn2{
     display: none;
   }
@@ -514,14 +559,13 @@ nav a img{
     justify-content: space-between;
   }
   .central{
-    width: 57%;
+    width: 70%;
 
   }
   .central p{
       text-align: justify;
   }
   .central ol{
-    width: 80%;
     text-align: justify;
   }
   .central ol li{
@@ -560,6 +604,7 @@ nav a img{
     justify-content: space-between;
     margin-left: 2%;
     margin-right: 2%;
+    text-align: center;
   }
 }
 #imgFinal{
@@ -573,4 +618,35 @@ nav a img{
 #imgbarra{
   width: 88%;
   margin-left: 6%;
+}
+.descubri{
+  width: fit-content;
+  margin: auto;
+}
+.algo1{
+  text-align: center;
+  margin-bottom: 10%;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 150%;
+}
+.comoSoy{
+  text-align: center;
+}
+.botonf{
+  transition-duration: 0.4s;
+  padding: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  font-weight: bold;
+  border-color: black;
+  border-radius: 8px;
+}
+.botonf:hover {
+  background-color: black; /* Green */
+  color: white;
+}
+.resultadoenea{
+  color:black;
+  font-weight:bold;
 }
