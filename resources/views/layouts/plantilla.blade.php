@@ -66,9 +66,9 @@
                 <p class="navp">MISION DE VIDA</p>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="recibir1">RECIBIR</a>
-                <a class="dropdown-item" href="dar1">DAR</a>
-                <a class="dropdown-item" href="final">AL FINAL DEL CAMINO</a>
+                <a class="dropdown-item" href="/recibir1">RECIBIR</a>
+                <a class="dropdown-item" href="/dar1">DAR</a>
+                <a class="dropdown-item" href="/final">AL FINAL DEL CAMINO</a>
               </div>
             </li>
         </ul>
