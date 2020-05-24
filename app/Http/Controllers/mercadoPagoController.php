@@ -15,8 +15,13 @@ class mercadoPagoController extends Controller
 {
     public function createPreferencePayment()
     {
-    // \MercadoPago\SDK::setAccessToken('TEST-4741705164024221-102222-c082f40bb2a3c5f53ff35e01f9b82326-15015244');
-    \MercadoPago\SDK::setAccessToken('TEST-6605144286056205-051715-aec7958b0801fb48a6d157f6084c294a-227294504');
+
+
+    // \MercadoPago\SDK::setAccessToken('TEST-4741705164024221-102222-c082f40bb2a3c5f53ff35e01f9b82326-15015244'); //MARCELO
+
+    // \MercadoPago\SDK::setAccessToken('TEST-6605144286056205-051715-aec7958b0801fb48a6d157f6084c294a-227294504'); //MIO
+
+    \MercadoPago\SDK::setAccessToken('TEST-1728498903924788-051923-00464845442ef0fdae447c2fe36ee998-349594482'); //GILO
 
 
     // Crea un objeto de preferencia
@@ -26,7 +31,7 @@ class mercadoPagoController extends Controller
     $item = new \MercadoPago\Item();
     $item->title = 'Ebook Eneagrama';
     $item->quantity = 1;
-    $item->unit_price = 200;
+    $item->unit_price = 1;
     $preference->items = array($item);
     $preference->notification_url = '';
     $preference->back_urls = array(
@@ -38,6 +43,7 @@ class mercadoPagoController extends Controller
 
     return redirect($preference->init_point);
   }
+
   public function succes(Request $req){
     $id=auth()->user()->id;
     $user=User::find($id);
