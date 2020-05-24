@@ -31,6 +31,9 @@ li{
 .navbar{
   background-color: #f2f4f3;
 }
+.dropdown-item:hover{
+  background-color: #E4E4E4;
+}
 #logoa{
   width: 20%;
 }
