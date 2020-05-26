@@ -7,11 +7,12 @@
 
 }
 h3{
-  font-size: 1.2rem;
+  font-size: 1.17rem;
   font-weight: bold;
 }
 h2{
   font-weight: bold;
+  font-size: 1.5rem;
 }
 body {
    background-color: #f2f4f3;
@@ -32,7 +33,11 @@ li{
   background-color: #f2f4f3;
 }
 .dropdown-item:hover{
-  background-color: #E4E4E4;
+  background-color: #ddd;
+}
+.dropdown-item{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 80%;
 }
 #logoa{
   width: 20%;
@@ -87,6 +92,17 @@ li{
     position: absolute;
     float: unset;
 }
+.dropdown-menu{
+  background-color: #f2f4f3;
+}
+@media (min-width:770px){
+  .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+}
+/* Fin Navbar */
+
 
 .contenedor_pregunta{
   display: flex;
@@ -218,6 +234,9 @@ li{
   #logo{
     width: 75%;
   }
+  .test h1 a{
+    font-size: 57%;
+  }
 }
 @media (max-width: 380px) and (min-width: 370px) {
   .test{
@@ -227,6 +246,9 @@ li{
   }
   #logo{
     width: 70%;
+  }
+  .test h1 a{
+    font-size: 60%;
   }
 }
 @media (max-width: 425px) and (min-width: 380px) {
@@ -238,6 +260,9 @@ li{
   #logo{
     width: 65%;
   }
+  .test h1 a{
+    font-size: 63%;
+  }
 }
 @media (max-width: 465px) and (min-width: 426px) {
   .test{
@@ -247,6 +272,9 @@ li{
   }
   #logo{
     width: 60%;
+  }
+  .test h1 a{
+    font-size: 65%;
   }
 }
 @media (max-width: 539px) and (min-width: 465px) {
@@ -258,6 +286,9 @@ li{
   #logo{
     width: 50%;
   }
+  .test h1 a{
+    font-size: 65%;
+  }
 }
 @media (max-width: 599px) and (min-width: 539px) {
   .test{
@@ -267,6 +298,9 @@ li{
   }
   #logo{
     width: 45%;
+  }
+  .test h1 a{
+    font-size: 65%;
   }
 }
 @media (max-width: 880px) and (min-width: 600px) {
@@ -289,6 +323,9 @@ li{
   #logo{
     width: 40%;
   }
+  .test h1 a{
+    font-size: 65%;
+  }
 }
 @media (max-width: 1141px) and (min-width: 1024px) {
   .test{
@@ -297,6 +334,9 @@ li{
   }
   #logo{
     width: 30%;
+  }
+  .test h1 a{
+    font-size: 65%;
   }
 }
 @media (max-width:1264px) and (min-width: 1142px) {
@@ -307,11 +347,17 @@ li{
   #logo{
     width: 30%;
   }
+  .test h1 a{
+    font-size: 65%;
+  }
 }
 @media (max-width: 1500px) and (min-width: 1265px) {
   .test{
     width: 30%;
     height:10rem;
+  }
+  .test h1 a{
+    font-size: 65%;
   }
 }
 @media (max-width:1700px) and (min-width: 1500px) {
@@ -319,11 +365,17 @@ li{
     width: 35%;
     height:11.5rem;
   }
+  .test h1 a{
+    font-size: 95%;
+  }
 }
 @media (max-width:1865px) and (min-width: 1701px) {
   .test{
     width: 30%;
     height:12.5rem;
+  }
+  .test h1 a{
+    font-size: 100%;
   }
 }
 @media (max-width:2100px) and (min-width: 1865px) {
@@ -331,17 +383,26 @@ li{
     width: 30%;
     height:13.5rem;
   }
+  .test h1 a{
+    font-size: 100%;
+  }
 }
 @media (max-width:2340px) and (min-width: 2100px) {
   .test{
     width: 35%;
     height:15.5rem;
   }
+  .test h1 a{
+    font-size: 120%;
+  }
 }
 @media (max-width:2670px) and (min-width: 2340px) {
   .test{
     width: 31%;
     height:18rem;
+  }
+  .test h1 a{
+    font-size: 150%;
   }
 }
 .central{
