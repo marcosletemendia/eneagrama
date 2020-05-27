@@ -5,24 +5,25 @@
 
 @section('principal')
    <div class="central">
-      <h2>QUÉ REGALO DA A LAS OTRAS TIPOLOGÍAS</h2>
+      <h2>QUÉ REGALO A LAS OTRAS TIPOLOGÍAS</h2>
       <ol>
-         <li><a href="#dar1">El UNO da</a></li>
-         <li><a href="#dar2">El DOS da</a></li>
-         <li><a href="#dar3">El TRES da</a></li>
-         <li><a href="#dar4">El CUATRO da</a></li>
-         <li><a href="#dar5">El CINCO da</a></li>
-         <li><a href="#dar6">El SEIS da</a></li>
-         <li><a href="#dar7">El SIETE da</a></li>
-         <li><a href="#dar8">El OCHO da</a></li>
-         <li><a href="#dar9">El NUEVE da</a></li>
+         <li><a href="#dar1">El UNO regala</a></li>
+         <li><a href="#dar2">El DOS regala</a></li>
+         <li><a href="#dar3">El TRES regala</a></li>
+         <li><a href="#dar4">El CUATRO regala</a></li>
+         <li><a href="#dar5">El CINCO regala</a></li>
+         <li><a href="#dar6">El SEIS regala</a></li>
+         <li><a href="#dar7">El SIETE regala</a></li>
+         <li><a href="#dar8">El OCHO regala</a></li>
+         <li><a href="#dar9">El NUEVE regala</a></li>
       </ol>
-      <h3 id='dar1'> El UNO da</h3>
+      <h3 id='dar1'> El UNO regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El UNO les regala
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El UNO le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al DOS, pasar de ayudar a ayudarse. Le dice: <i>ORGANIZATE</i>.</li>
          <li>Al TRES, pasar del hacer descontrolado a un hacer ordenado. Le dice: <i>SISTEMATIZÁ</i>.</li>
          <li>Al CUATRO, pasar de la dispersión a la disciplina. Le dice: <i>ORDENATE</i>.</li>
@@ -33,12 +34,13 @@
          <li>Al OCHO, pasar del arrebato a auto-dominio. Le dice: <i>CONTROLATE</i>.</li>
          <li>Al NUEVE, pasar de la inercia a la iniciativa. Le dice: <i>MOVETE</i>.</li>
       </ul>
-      <h3 id='dar2'> El DOS da</h3>
+      <h3 id='dar2'> El DOS regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El DOS le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El DOS le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar del híper-criticismo a la empatía. Le dice: <i>ACOGÉ</i>.</li>
          <li>Al TRES, pasar de la búsqueda del éxito al contacto con las emociones.
             Le dice: <i>SENTÍ</i>.</li>
@@ -53,12 +55,13 @@
          <li>Al NUEVE, pasar de la indiferencia al compromiso afectivo. Le dice:
             <i>ACERCATE</i>.</li>
       </ul>
-      <h3 id='dar3'> El TRES da</h3>
+      <h3 id='dar3'> El TRES regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El TRES le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El TRES le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar del control a la posibilidad de tomar riesgos. Le dice:
             <i>JUGATE</i>.</li>
          <li>Al DOS, pasar del actuar para los demás a actuar para sí. Le dice:
@@ -70,12 +73,13 @@
          <li>Al OCHO, pasar del ímpetu a la acción efectiva. Le dice: <i>SÉ PRAGMÁTICO</i>.</li>
          <li>Al NUEVE, pasar de la pasividad a la acción. Le dice: <i>HACÉ</i>.</li>
       </ul>
-      <h3 id='dar4'> El CUATRO da</h3>
+      <h3 id='dar4'> El CUATRO regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El CUATRO le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El CUATRO le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar de la forma al fondo. Le dice:<i> DISTINGUÍ</i>.</li>
          <li>Al DOS, pasar del foco en los otros al foco en sí mismo. Le dice: <i>MIRATE</i>.</li>
          <li>Al TRES, pasar del hacer al sentir. Le dice: <i>VIBRÁ</i>.</li>
@@ -88,12 +92,13 @@
          <li>Al NUEVE, pasar de mimetizarse a la autenticidad. Le dice: SÉ
             <i>GENUINO</i>.</li>
       </ul>
-      <h3 id='dar5'> El CINCO da</h3>
+      <h3 id='dar5'> El CINCO regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El CINCO le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El CINCO le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar de la acción a la contemplación. Le dice: <i>ANALIZÁ</i>.</li>
          <li>Al DOS, pasar de un dar intencionado a un dar desinteresado. Le dice:
             <i>DIFERENCIÁ</i>.</li>
@@ -105,12 +110,13 @@
          <li>Al NUEVE, pasar de callar, para no confrontar; a callar, por no tener
             nada que agregar. Le dice: <i>DISCERNÍ</i>.</li>
       </ul>
-      <h3 id='dar6'> El SEIS da</h3>
+      <h3 id='dar6'> El SEIS regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El SEIS le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El SEIS le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar de la autoridad interior a la exterior. Le dice: <i>ACEPTÁ</i>.</li>
          <li>Al DOS, pasar del dar al recibir. Le dice: <i>PEDÍ</i>.</li>
          <li>Al TRES, pasar del formar equipos a integrar equipos. Le dice: <i>SUMATE</i>.</li>
@@ -120,12 +126,13 @@
          <li>Al OCHO, pasar de liderar a colaborar. Le dice: <i>COOPERÁ</i>.</li>
          <li>Al NUEVE, pasar de la imparcialidad a la preferencia. Le dice: <i>COMPROMETETE</i>.</li>
       </ul>
-      <h3 id='dar7'> El SIETE da</h3>
+      <h3 id='dar7'> El SIETE regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El SIETE le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El SIETE le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar del control a la distención. Le dice: <i>DISFRUTÁ</i>.</li>
          <li>Al DOS, pasar del implicarse al divertirse. Le dice: <i>RELAJATE</i>.</li>
          <li>Al TRES, pasar del trabajar al entretenerse. Le dice: <i>VIVÍ</i>.</li>
@@ -135,12 +142,13 @@
          <li>Al OCHO, pasar de torturarse a liberarse. Le dice: <i>ABANDONATE</i>.</li>
          <li>Al NUEVE, pasar de quedarse a salir. Le dice: <i>DIVERTITE</i>.</li>
       </ul>
-      <h3 id='dar8'> El OCHO da</h3>
+      <h3 id='dar8'> El OCHO regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El OCHO le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El OCHO le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar de la atadura a las formas a poder rebelarse. Le dice:
             <i>ARRIESGATE</i>.</li>
          <li>Al DOS, pasar de estar siempre disponible a darse un lugar. Le dice:
@@ -154,12 +162,13 @@
          <li>Al SIETE, pasar de evadir a sostener. Le dice: <i>ENFRENTÁ</i>.</li>
          <li>Al NUEVE, pasar de la neutralidad a la pasión. Le dice: <i>JUGATE</i>.</li>
       </ul>
-      <h3 id='dar9'> El NUEVE da</h3>
+      <h3 id='dar9'> El NUEVE regala</h3>
       <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
-         es la misión de vida de cada eneatipo. El NUEVE le regala:
+         es la misión de vida de cada eneatipo.
       </p>
-      <ul>
+      <p style="margin-bottom:0;">El NUEVE le regala:</p>
+      <ul style="padding-top:1%;">
          <li>Al UNO, pasar de la ira a la serenidad. Le dice: <i>TRANQUILIZATE</i>.</li>
          <li>Al DOS, pasar de la hiperactividad al sosiego. Le dice: <i>PARÁ</i>.</li>
          <li>Al TRES, pasar del hacer desenfrenado a parar. Le dice: <i>SERENATE</i>.</li>

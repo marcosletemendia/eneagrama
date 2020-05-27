@@ -10,7 +10,7 @@
        mecanismo de vincularidad que le genera la búsqueda de buenas relaciones
        y el híper-desarrollo de la energía emocional, dan lugar al miedo
        a no ser valioso. Como respuesta a ese miedo estructural, surge la
-       necesidad distintiva de validación externa y la consecuente búsqueda
+       <b>necesidad distintiva de validación externa</b> y la consecuente búsqueda
        para descubrir qué es lo que los otros puedan necesitar. Es por ello que
        el DOS tiende a privilegiar frases asociadas a <i>“No está bien tener necesidades”</i>.
        Resultado de su necesidad de validación externa, el DOS

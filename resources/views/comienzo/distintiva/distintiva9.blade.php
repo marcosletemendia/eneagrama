@@ -9,8 +9,8 @@
     <p>En el NUEVE, la herida primaria que le origina sensación de soledad,
        su mecanismo de vincularidad que le genera la búsqueda de autonomía
        y el bloqueo de la energía (visceral), dan lugar al temor de ser
-       abrumado por la Vida. Como respuesta nace la necesidad distintiva de
-       serenidad. Es por ello que el NUEVE tiende a privilegiar frases asociadas
+       abrumado por la Vida. Como respuesta nace la <b>necesidad distintiva de
+       serenidad</b>. Es por ello que el NUEVE tiende a privilegiar frases asociadas
        a <i>“No está bien imponerse”</i>, se relaciona de manera apacible, se
        esfuerza en subsanar errores, tiene dificultad en establecer prioridades
        (sus necesidades le parecen menos relevantes que las de los demás) y

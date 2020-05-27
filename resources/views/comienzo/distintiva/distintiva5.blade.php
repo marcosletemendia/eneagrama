@@ -10,7 +10,7 @@
        su mecanismo de vincularidad que le genera la búsqueda de seguridad,
        y el híper-desarrollo de la energía (cerebral), dan lugar al miedo
        a entregarse a la vida. Como respuesta a ese miedo estructural, surge
-       la necesidad distintiva de replegarse. Es por ello que el CINCO tiende
+       la <b>necesidad distintiva de replegarse</b>. Es por ello que el CINCO tiende
        a privilegiar frases asociadas a <i>“No está bien sentirse a gusto en
        el mundo”</i>, desarrolla una aguda capacidad de observación, que lo
        orienta en situaciones nuevas; asume un perfil en el que se siente libre
