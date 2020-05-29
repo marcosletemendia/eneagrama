@@ -7,7 +7,7 @@
   <div class="central">
     <h2>Autoras</h2>
     <div class="aut">
-      <img src="/storage/monica.png" alt="">
+      <img src="/img/monica.png" alt="">
       <div class="autp">
         <h3>Mónica Ivanissevich</h3>
         <p>Curiosa.
@@ -25,7 +25,7 @@
 
     </div>
     <div class="aut">
-      <img src="/storage/jaqui.png" alt="">
+      <img src="/img/jaqui.png" alt="">
       <div class="autp">
         <h3>Jaqueline Pels</h3>
         <p>Madre, amiga,
