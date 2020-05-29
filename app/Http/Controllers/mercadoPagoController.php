@@ -31,7 +31,8 @@ class mercadoPagoController extends Controller
     $item = new \MercadoPago\Item();
     $item->title = 'Ebook Eneagrama';
     $item->quantity = 1;
-    $item->unit_price = 1;
+    $item->unit_price = 10;
+    $item->currency = "ARS";
     $preference->items = array($item);
     $preference->notification_url = '';
     $preference->back_urls = array(
@@ -54,7 +55,7 @@ class mercadoPagoController extends Controller
     $user->save();
     $info=$req->request;
 
-    return view('/succes');
+    return view('/download');
 
 
   }

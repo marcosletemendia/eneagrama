@@ -7,9 +7,7 @@
       <h2>Descargue el Libro Aqui</h2>
       <div class="descarga">
 
-      <a href="/storage/eneagramasinteriorespdfinteractivo(1).pdf" download="Eneagramas">
-      Descargar Ebook
-      </a>
+      <a href="/eneagramasinteriorespdfinteractivo(1).pdf" download="Eneagramas">Descargar Ebook</a>
       </div>
 
   @elseif ( Auth::user()->collection_status=='error')
