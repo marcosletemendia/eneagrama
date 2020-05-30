@@ -16,7 +16,6 @@ class mercadoPagoController extends Controller
     public function createPreferencePayment()
     {
 
-
     \MercadoPago\SDK::setAccessToken('TEST-4741705164024221-102222-c082f40bb2a3c5f53ff35e01f9b82326-15015244'); //MARCELO
 
     // \MercadoPago\SDK::setAccessToken('TEST-6605144286056205-051715-aec7958b0801fb48a6d157f6084c294a-227294504'); //MIO
