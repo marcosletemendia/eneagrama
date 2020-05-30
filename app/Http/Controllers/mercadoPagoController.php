@@ -52,6 +52,9 @@ class mercadoPagoController extends Controller
     $user->collection_status=$req['collection_status'];
     $user->merchant_order_id=$req['merchant_order_id'];
     $user->preference_id=$req['preference_id'];
+
+    $user->compro= 1 ;
+
     $user->save();
     $info=$req->request;
 
