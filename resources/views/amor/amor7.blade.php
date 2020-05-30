@@ -1,6 +1,6 @@
 @extends('layouts.plantilla')
 @section('titulo')
-   Eneatipos: Los Numeros en Nuestra Vida
+   Eneagrama: Los Numeros en Nuestra Vida
 @endsection
 
 @section('principal')

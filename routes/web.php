@@ -359,6 +359,10 @@ Route::get('recibir1', function () {
     return view('/recibir/recibir1');
 });
 
+
+Route::get('/checkout/mercadopago', function(){
+  return view('/compra1');
+});
 Route::get('/compra', 'HomeController@compra');
 Route::get('/checkout/preferences','mercadoPagoController@createPreferencePayment');
 Route::get('succes', 'mercadoPagoController@succes');
