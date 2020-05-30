@@ -9,6 +9,7 @@
 h3{
   font-size: 1.17rem;
   font-weight: bold;
+  margin-left: 2%;
 }
 h2{
   font-weight: bold;
@@ -447,9 +448,6 @@ li{
 
 
 }
-.central h3{
-  margin-left: 3%
-}
 .algo{
 
   margin-bottom: 10%;
@@ -483,7 +481,6 @@ li{
   justify-content: center;
   align-items: center;
   margin-bottom: 2%;
-  padding-left: 17%;
 }
 
 .who{
@@ -552,7 +549,6 @@ li{
   border-bottom:  1px solid #fff;
 }
 .autp{
-  width: 70%;
   padding:2%;
 }
 .form{
@@ -570,6 +566,9 @@ li{
 .comoSoy a{
   text-decoration: none;
 
+}
+.central ol li{
+  padding-top: 3%;
 }
 
 @media (min-width: 600px){
@@ -628,9 +627,6 @@ li{
   .central ol{
     text-align: justify;
   }
-  .central ol li{
-    padding-top: 1%;
-  }
   .test h1{
     padding-top: 15%;
   }
@@ -642,7 +638,6 @@ li{
     margin-right:  0.5%;
   }
   .aut{
-    display: flex;
     text-align: justify;
     padding-left: 0%;
   }
@@ -710,3 +705,24 @@ li{
   color:black;
   font-weight:bold;
 }
+/* Autoras */
+@media (min-width:320px) and (max-width:425px) {
+  .aut{
+    padding-left:0;
+  }
+  .autp{
+    width: 100%;
+  }
+}
+.autoras{
+  width: fit-content;
+  margin: auto;
+}
+@media (min-width:1024px) {
+  #imgaut{
+    width: 40%;
+    margin-left: 30%;
+  }
+}
+
+/* Final Autoras */

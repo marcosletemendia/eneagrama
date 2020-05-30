@@ -7,9 +7,9 @@
   <div class="central">
     <h2>Autoras</h2>
     <div class="aut">
-      <img src="/img/monica.png" alt="">
+      <img id="imgaut" src="/img/monica.png" alt="">
       <div class="autp">
-        <h3>Mónica Ivanissevich</h3>
+        <h3 class="autoras">Mónica Ivanissevich</h3>
         <p>Curiosa.
             Innovadora.
             Comprometida docente.
@@ -25,9 +25,9 @@
 
     </div>
     <div class="aut">
-      <img src="/img/jaqui.png" alt="">
+      <img id="imgaut" src="/img/jaqui.png" alt="">
       <div class="autp">
-        <h3>Jaqueline Pels</h3>
+        <h3 class="autoras">Jaqueline Pels</h3>
         <p>Madre, amiga,
             investigadora,
             emprendedora.
