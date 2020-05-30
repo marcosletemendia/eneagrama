@@ -103,6 +103,7 @@
               @csrf
           </form>
         @endif
+        <a href="/success">success</a>
       </div>
     </section>
 

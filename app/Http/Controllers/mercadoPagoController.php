@@ -44,18 +44,38 @@ class mercadoPagoController extends Controller
     return redirect($preference->init_point);
   }
 
-  public function succes(Request $req){
-    $id=auth()->user()->id;
-    $user=User::find($id);
-    $user->transaction_id=$req['collection_id'];
-    $user->collection_status=$req['collection_status'];
-    $user->merchant_order_id=$req['merchant_order_id'];
-    $user->preference_id=$req['preference_id'];
+  public function success(){
 
-    $user->compro= 1 ;
+    // MIO
+    $user = auth()->user();
+    $user->compro = 1;
+
+    //MARCELO
+    // $id=auth()->user()->id;
+    // $user=User::find($id);
+
+    // var_dump($user);
 
     $user->save();
-    $info=$req->request;
+
+    return view('/download');
+  }
+
+  public function succes(){
+
+    $id=auth()->user()->id;
+    $user=User::find($id);
+
+    // $user->transaction_id=$req['collection_id'];
+    // $user->collection_status=$req['collection_status'];
+    // $user->merchant_order_id=$req['merchant_order_id'];
+    // $user->preference_id=$req['preference_id'];
+
+    $user->compro = 1 ;
+
+    $user->save();
+
+    // $info=$req->request;
 
     return view('/download');
 

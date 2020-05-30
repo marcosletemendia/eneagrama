@@ -365,8 +365,8 @@ Route::get('/checkout/mercadopago', function(){
 });
 Route::get('/compra', 'HomeController@compra');
 Route::get('/checkout/preferences','mercadoPagoController@createPreferencePayment');
-Route::get('succes', 'mercadoPagoController@succes');
-Route::get('/download',function () {
+Route::get('/success', 'mercadoPagoController@success');
+Route::get('/download', function () {
     return view('/download');
 })->middleware('auth');
 Route::get('/fulltest', 'fulltest@primerLista');
