@@ -9,6 +9,7 @@
     <div class="pago">
       <a href="/checkout/mercadopago"><img src="/img/mercadopago.jpg" alt=""></a>
       <a href="/paypal"><img src="/img/paypal.jpg" alt=""></a>
+
     </div>
   </div>
 @endsection

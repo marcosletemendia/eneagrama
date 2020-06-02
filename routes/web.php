@@ -359,16 +359,18 @@ Route::get('recibir1', function () {
     return view('/recibir/recibir1');
 });
 
+// Route::post('/checkout/preferences','mercadoPagoController@createPreferencePayment');
 
-Route::get('/checkout/mercadopago', function(){
-  return view('/compra1');
-});
+Route::get('/checkout/mercadopago', 'mercadoPagoController@comprar');
 Route::get('/compra', 'HomeController@compra');
-Route::get('/checkout/preferences','mercadoPagoController@createPreferencePayment');
-Route::get('/success', 'mercadoPagoController@success');
+// Route::get('/checkout/preferences','mercadoPagoController@createPreferencePayment');
+
+Route::post('/success', 'mercadoPagoController@success');
+
 Route::get('/download', function () {
     return view('/download');
 })->middleware('auth');
+
 Route::get('/fulltest', 'fulltest@primerLista');
 Route::post('/pag2', 'fulltest@segundaLista');
 Route::post('/pag3', 'fulltest@tercerLista');
