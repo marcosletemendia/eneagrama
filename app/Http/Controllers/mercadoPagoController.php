@@ -15,7 +15,9 @@ class mercadoPagoController extends Controller
 {
 
     public function comprar(){
-\MercadoPago\SDK::setAccessToken('TEST-4741705164024221-102222-c082f40bb2a3c5f53ff35e01f9b82326-15015244'); //MARCELO
+
+      \MercadoPago\SDK::setAccessToken('TEST-4741705164024221-102222-c082f40bb2a3c5f53ff35e01f9b82326-15015244'); //MARCELO
+
       // \MercadoPago\SDK::setAccessToken('TEST-1728498903924788-051923-00464845442ef0fdae447c2fe36ee998-349594482'); //GILO
 
       $preference = new \MercadoPago\Preference();
@@ -87,14 +89,15 @@ class mercadoPagoController extends Controller
     $user = auth()->user();
     $user->compro = 1;
 
+    $user->preference_id=$form['preference_id'];
     $user->transaction_id=$form['payment_id'];
     $user->collection_status=$form['payment_status'];
     $user->merchant_order_id=$form['merchant_order_id'];
-    $user->preference_id=$form['preference_id'];
 
-    // var_dump($user);
+
 
     $user->save();
+    dd($user);
 
     return view('/download');
   }

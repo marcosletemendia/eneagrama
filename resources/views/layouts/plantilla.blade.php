@@ -82,7 +82,20 @@
       @yield('principal')
 
       <div class="test">
-        <h1><a href=@php if (Auth::check()){
+
+        <h1>
+          @if (Auth::user())
+            @if (Auth::user()->collection_status=='approved')
+              <a href="/download">Descargar el libro</a>
+            @elseif (Auth::user()->collection_status==NULL)
+              <a href="/compra">Comprar el libro</a>
+            @endif
+          @else
+              <a href="/auth/login">Comprar el libro</a>
+          @endif
+        </h1>
+
+        {{-- <h1><a href=@php if (Auth::check()){
         if (Auth::user()->collection_status==NULL ) {
           echo '/compra';
         } else{
@@ -93,7 +106,7 @@
       }
 
         @endphp>Comprar el libro</a></h1>
-
+ --}}
 
         @if (Auth::user())
           <a class="btn btn-danger" href="{{ route('logout') }}" role="button" onclick="event.preventDefault();
@@ -103,7 +116,6 @@
               @csrf
           </form>
         @endif
-        <a href="/success">success</a>
       </div>
     </section>
 
