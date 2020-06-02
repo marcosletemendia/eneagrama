@@ -724,5 +724,13 @@ li{
     margin-left: 30%;
   }
 }
-
+#imgpago{
+  border-style: double;
+  border-color: black;
+}
+.botonpago{
+  width: fit-content;
+    margin: auto;
+    padding-top: 2%;
+}
 /* Final Autoras */
