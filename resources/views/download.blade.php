@@ -4,11 +4,11 @@
   <div class="central">
 
     @if (Auth::user()->collection_status=='approved')
-      <h2>Descargue el Libro Aqui</h2>
-      <div class="descarga">
+      <h2> <a href="eneagramasinteriorespdfinteractivo(1).pdf" download="Eneagramas">Haga click aquí para descargar el Libro</a></h2>
+      {{-- <div class="descarga">
 
       <a href="/eneagramasinteriorespdfinteractivo(1).pdf" download="Eneagramas">Descargar Ebook</a>
-      </div>
+      </div> --}}
 
   @elseif ( Auth::user()->collection_status=='error')
       <h2>Elija el Metodo de Pago</h2>

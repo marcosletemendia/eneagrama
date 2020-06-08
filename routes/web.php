@@ -359,14 +359,17 @@ Route::get('recibir1', function () {
     return view('/recibir/recibir1');
 });
 
-// Route::post('/checkout/preferences','mercadoPagoController@createPreferencePayment');
-
-Route::get('/checkout/mercadopago', 'mercadoPagoController@comprar');
+// COMPRA
 Route::get('/compra', 'HomeController@compra');
-// Route::get('/checkout/preferences','mercadoPagoController@createPreferencePayment');
-
+// MERCADO PAGO
+Route::get('/checkout/mercadopago', 'mercadoPagoController@comprar');
 Route::post('/success', 'mercadoPagoController@success');
+// PAYPAL
+Route::get('/checkout/{pago}', 'HomeController@comprarPaypal');
+Route::get('success/paypal', 'HomeController@success');
+//  Route::post('success/paypal', 'HomeController@success');
 
+// DOWNLOAD
 Route::get('/download', function () {
     return view('/download');
 })->middleware('auth');
