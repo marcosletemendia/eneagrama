@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL UNO: "el idealista"</h2>
+      <h2>Características del UNO: "El idealista"</h2>
 
       <p>Es una persona ética, productiva, ordenada, idealista y auto-disciplinada. Si lo definiera una frase, ésta sería: “Tengo razón; no me equivoco. Si los demás se parecieran a mí, todo sería mejor (correcto)”. Sin embargo, también puede ser perfeccionista, híper-critica, dominante y exigente.
       </p>

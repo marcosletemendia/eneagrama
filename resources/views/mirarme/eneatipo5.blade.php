@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL CINCO: “el observador”</h2>
+      <h2>Características del CINCO: “El observador”</h2>
 
       <p>Es una persona abstracta, provocadora, sorprendente, heterodoxa y profunda. Si pudiera expresarse, diría: "Analizo; pienso. Si los demás fueran profundos y lógicos como yo, la vida sería más interesante". Sin embargo, también puede ser soberbia, fría, difícil de abordar. </p>
       <ol>

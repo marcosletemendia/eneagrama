@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL CUATRO: “el creativo”</h2>
+      <h2>Características del CUATRO: “El creativo”</h2>
 
       <p>Es una persona creativa, introspectiva, intuitiva y romántica. Si lo definiera una frase, ésta sería: “Profundizo; siento intensamente. Si los demás fueran tan sensibles como yo, el mundo sería más humano”. Sin embargo, también puede ser depresiva, auto-destructiva, excéntrica y retraída.
       </p>

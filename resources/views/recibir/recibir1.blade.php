@@ -5,7 +5,7 @@
 
 @section('principal')
    <div class="central">
-      <h2>QUÉ REGALO RECIBE DE OTRAS TIPOLOGÍAS</h2>
+      <h2>Qué regalo recibe de otras tipologías</h2>
       <ol>
          <li><a href='#ElUNO'>El UNO recibe</a></li>
          <li><a href='#ElDOS'>El DOS recibe</a></li>

@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL DOS: “el altruista”</h2>
+      <h2>Características del DOS: “El altruista”</h2>
 
       <p>Es una persona afectuosa, cuidadosa, perceptiva, generosa y empática. Si lo definiera una frase, ésta sería: “Ayudo; me necesitan. Si los demás pensaran en el prójimo, viviríamos en un mundo mejor (solidario)”. Sin embargo, también puede ser dominante, manipuladora, emocionalmente explosiva y egoísta.
       </p>

@@ -5,7 +5,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>DE DÓNDE SURGEN ESTAS CARACTERÍSTICAS</h2>
+      <h2>De dónde surgen estas características</h2>
       <p>Según el eneagrama, cada eneatipo tiene una vivencia particular de la experiencia
          intrauterina. A su vez, pertenece a un determinado centro energético
          y focaliza la energía en un modo específico. Estos tres factores dan lugar a una

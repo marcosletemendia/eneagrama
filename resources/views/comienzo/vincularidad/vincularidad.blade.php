@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CENTROS ENERGÉTICOS - MECANISMO DE VINCULARIDAD</h2>
+      <h2>Centros energéticos - Mecanismo de vincularidad</h2>
       <p>Existen tres centros energéticos: el visceral, el cerebral y el emocional. Algunas
          personas se conducirán en la vida desde sus instintos, otras desde su mente, y
          otras, desde sus emociones, dependiendo del centro al cual pertenezcan. De

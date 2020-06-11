@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL NUEVE: “el pacificador”</h2>
+      <h2>Características del NUEVE: “El pacificador”</h2>
 
       <p>Es una persona equilibrada, centrada, pacificadora, paciente y receptiva. Si lo definiera una frase, ésta sería: “Tengo tranquilidad; estoy a gusto. Si la gente fuera más apacible y relajada, viviríamos en un mundo más tranquilo”. Sin embargo, también puede ser apática, evasiva, terca y negligente. </p>
       <ol>

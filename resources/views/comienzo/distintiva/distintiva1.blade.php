@@ -5,7 +5,7 @@
 
 @section('principal')
   <div class="central">
-    <h2>Necesidad Distintiva del UNO</h2>
+    <h2>Necesidad distintiva del UNO</h2>
     <p>En el UNO, la herida primaria que le origina sensación de rechazo, su
        mecanismo de vincularidad que le genera la búsqueda de autonomía
        y la focalización en sí mismo de la energía visceral, dan lugar al miedo

@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL TRES: “el exitoso”</h2>
+      <h2>Características del TRES: “El exitoso”</h2>
 
       <p>Es una persona optimista, eficiente, emprendedora, confiada, extrovertida y enérgica. Si lo definiera una frase, ésta sería: “Produzco; soy eficaz. Si la gente tuviera mi misma motivación y capacidad de trabajo, habría menos problemas”. Sin embargo, también puede ser superficial, vanidosa y pragmática.
       </p>

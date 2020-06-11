@@ -225,12 +225,12 @@ li{
   font-size: 100%;
   font-weight: bold;
 }
-@media (max-width: 370px) and (min-width: 320px) {
+@media (max-width: 370px) and (min-width: 0px) {
   .test{
-    width: 83%;
+    width: 76%;
     margin: auto;
     margin-bottom: 1%;
-    height: 8.2rem;
+    height: 8rem;
   }
   #logo{
     width: 75%;
@@ -239,9 +239,22 @@ li{
     font-size: 57%;
   }
 }
-@media (max-width: 380px) and (min-width: 370px) {
+@media (max-width: 380px) and (min-width: 375px) {
   .test{
-    width: 81%;
+    width: 75%;
+    margin: auto;
+    height:8rem;
+  }
+  #logo{
+    width: 70%;
+  }
+  .test h1 a{
+    font-size: 60%;
+  }
+}
+@media (max-width: 375px) and (min-width: 370px) {
+  .test{
+    width: 74%;
     margin: auto;
     height:8rem;
   }
@@ -304,9 +317,21 @@ li{
     font-size: 65%;
   }
 }
-@media (max-width: 880px) and (min-width: 600px) {
+@media (max-width: 810px) and (min-width: 600px) {
   .test{
     width: 40%;
+    height:6rem;
+  }
+  #logo{
+    width: 40%;
+  }
+  .test h1 a{
+    font-size: 60%;
+  }
+}
+@media (max-width: 880px) and (min-width: 810px) {
+  .test{
+    width: 30%;
     height:6rem;
   }
   #logo{
@@ -340,7 +365,19 @@ li{
     font-size: 65%;
   }
 }
-@media (max-width:1264px) and (min-width: 1142px) {
+@media (max-width:1200px) and (min-width: 1142px) {
+  .test{
+    width: 35%;
+    height:9rem;
+  }
+  #logo{
+    width: 30%;
+  }
+  .test h1 a{
+    font-size: 65%;
+  }
+}
+@media (max-width:1264px) and (min-width: 1200px) {
   .test{
     width: 30%;
     height:9rem;
@@ -397,7 +434,7 @@ li{
     font-size: 120%;
   }
 }
-@media (max-width:2670px) and (min-width: 2340px) {
+@media  (min-width: 2340px) {
   .test{
     width: 31%;
     height:18rem;
@@ -734,3 +771,10 @@ li{
     padding-top: 2%;
 }
 /* Final Autoras */
+
+.contenedor_pregunta{
+  overflow: hidden;
+}
+.chek{
+  width: 100%;
+}

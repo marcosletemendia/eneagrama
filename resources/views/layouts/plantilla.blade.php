@@ -22,15 +22,15 @@
               <p class="navp">ENEATIPOS</p>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="/mirarme/eneatipo1">El UNO - El Idealista</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo2">El DOS - El que da</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo3">El TRES - El exitoso</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo4">El CUATRO - El Creativo</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo5">El CINCO - El Observador</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo6">El SEIS - El Confiable</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo7">El SIETE - El Optimista</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo8">El OCHO - El Lider</a>
-              <a class="dropdown-item" href="/mirarme/eneatipo9">El NUEVE - El Pacificador</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo1">El UNO - EL IDEALISTA</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo2">El DOS - EL QUE DA</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo3">El TRES - EL EXITOSO</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo4">El CUATRO - EL CREATIVO</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo5">El CINCO - EL OBSERVADOR</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo6">El SEIS - EL CONFIABLE</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo7">El SIETE - EL OPTIMISTA</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo8">El OCHO - EL LÍDER</a>
+              <a class="dropdown-item" href="/mirarme/eneatipo9">El NUEVE - EL PACIFICADOR</a>
           </li>
           <li class="nav-item dropdown linav">
             <a class="nav-link nava" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -58,7 +58,7 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="/alejamiento/alejamiento">ALEJAMIENTO DE SI MISMO</a>
-                <a class="dropdown-item" href="/encuentro">ENCUENTRO CONSIGO</a>
+                <a class="dropdown-item" href="/encuentro">ENCUENTRO CONSIGO MISMO</a>
               </div>
             </li>
             <li class="nav-item dropdown linav">

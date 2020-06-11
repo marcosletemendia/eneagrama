@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>QUIÉNES COMPLEMENTAN AL ENEATIPO</h2>
+      <h2>Quiénes complementan al eneatipo</h2>
       <p>Al relacionarse con los ocho eneatipos restantes, queda configurada la siguiente
          vincularidad: cada eneatipo tiene dos eneatipos contiguos (alas); dos eneatipos
          primarios (brazos); dos eneatipos consonantes (ejes) y dos eneatipos ajenos

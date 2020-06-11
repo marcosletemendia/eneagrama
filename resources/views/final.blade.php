@@ -5,7 +5,7 @@
 
 @section('principal')
    <div class="central">
-      <h2>AL FINAL DEL CAMINO</h2>
+      <h2>Al final del camino</h2>
 
       <p>Que podamos reconocer y compartir nuestras sabidurías específicas es la misión
          de vida de cada eneatipo.

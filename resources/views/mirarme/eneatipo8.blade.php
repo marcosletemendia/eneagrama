@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL OCHO: “el líder”</h2>
+      <h2>Características del OCHO: “El líder”</h2>
 
       <p>Es una persona justa, segura, firme, generosa, con alta confianza en sí misma. Si lo definiera una frase, ésta sería: “Tengo autoridad; ¡puedo! Si la gente supiera actuar con la claridad y la determinación con que lo hago yo, habría menos injusticia”. Sin embargo, también suele ser impulsiva, agresiva, tiránica, y controladora. </p>
       <ol>

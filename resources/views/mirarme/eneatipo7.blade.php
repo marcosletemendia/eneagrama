@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL SIETE: “el optimista”</h2>
+      <h2>Características del SIETE: “El optimista”</h2>
 
       <p>Es una persona espontánea, imaginativa, entusiasta, encantadora y curiosa. Si lo definiera una frase, ésta sería: “Soy feliz; disfruto. Si la gente viera el lado positivo de las cosas, todos seríamos más felices”. Sin embargo, también puede ser inconstante, dispersa, inquieta y maníaca. </p>
       <ol>

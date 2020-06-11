@@ -6,7 +6,7 @@
 @section('principal')
 
    <div class="central">
-      <h2>CARACTERÍSTICAS DEL SEIS: “el confiable”</h2>
+      <h2>Características del SEIS: “El confiable”</h2>
 
       <p>Es una persona leal, responsable, correcta, dedicada y cálida. Si lo definiera una frase, ésta sería: “Soy responsable; cumplo con mi deber. Si todos se comprometieran como yo, no ocurrirían tantas cosas desagradables en el mundo”. Sin embargo, también puede ser miedoso, indeciso, desconfiado y estructurado. </p>
 
