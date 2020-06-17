@@ -237,15 +237,17 @@ class fulltest extends Controller
       }
    }
 
-   $porcentajes[]=($eneat1*100)/19;
-   $porcentajes[]=($eneat2*100)/20;
-   $porcentajes[]=($eneat3*100)/19;
-   $porcentajes[]=($eneat4*100)/19;
-   $porcentajes[]=($eneat5*100)/19;
-   $porcentajes[]=($eneat6*100)/19;
-   $porcentajes[]=($eneat7*100)/19;
-   $porcentajes[]=($eneat8*100)/19;
-   $porcentajes[]=($eneat9*100)/19;
+   $totales = $eneat1 + $eneat2 + $eneat3 + $eneat4 + $eneat5 + $eneat6 + $eneat7 + $eneat8 + $eneat9;
+
+   $porcentajes[]=($eneat1*100)/$totales;
+   $porcentajes[]=($eneat2*100)/$totales;
+   $porcentajes[]=($eneat3*100)/$totales;
+   $porcentajes[]=($eneat4*100)/$totales;
+   $porcentajes[]=($eneat5*100)/$totales;
+   $porcentajes[]=($eneat6*100)/$totales;
+   $porcentajes[]=($eneat7*100)/$totales;
+   $porcentajes[]=($eneat8*100)/$totales;
+   $porcentajes[]=($eneat9*100)/$totales;
 
  return view('/devolucion', compact('porcentajes'));
  }

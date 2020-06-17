@@ -114,16 +114,18 @@ class preguntas extends Controller
 
       }
 
+      $totales = $eneat1 + $eneat2 + $eneat3 + $eneat4 + $eneat5 + $eneat6 + $eneat7 + $eneat8 + $eneat9;
 
-      $porcentajes[]=($eneat1*100)/5;
-      $porcentajes[]=($eneat2*100)/5;
-      $porcentajes[]=($eneat3*100)/5;
-      $porcentajes[]=($eneat4*100)/5;
-      $porcentajes[]=($eneat5*100)/5;
-      $porcentajes[]=($eneat6*100)/5;
-      $porcentajes[]=($eneat7*100)/5;
-      $porcentajes[]=($eneat8*100)/5;
-      $porcentajes[]=($eneat9*100)/5;
+
+      $porcentajes[]=($eneat1*100)/$totales;
+      $porcentajes[]=($eneat2*100)/$totales;
+      $porcentajes[]=($eneat3*100)/$totales;
+      $porcentajes[]=($eneat4*100)/$totales;
+      $porcentajes[]=($eneat5*100)/$totales;
+      $porcentajes[]=($eneat6*100)/$totales;
+      $porcentajes[]=($eneat7*100)/$totales;
+      $porcentajes[]=($eneat8*100)/$totales;
+      $porcentajes[]=($eneat9*100)/$totales;
 
     return view('/devolucion1', compact('porcentajes'));
 
