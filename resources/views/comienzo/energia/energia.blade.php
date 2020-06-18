@@ -6,6 +6,13 @@
 @section('principal')
 
    <div class="central">
+     <h2>De dónde surgen estas características</h2>
+     <p>Según el eneagrama, cada eneatipo tiene una vivencia particular de la experiencia
+        intrauterina. A su vez, pertenece a un determinado centro energético
+        y focaliza la energía en un modo específico. Estos tres factores dan lugar a una
+        necesidad básica distintiva.
+     </p>
+
       <h2>Foco de la energía - Manejo de la energía</h2>
       <p>Existen tres direcciones hacia las cuales dirigir la energía para preservar el espacio
          interior: hacia afuera, hacia adentro o contra las amenazas internas y

@@ -6,6 +6,13 @@
 @section('principal')
 
    <div class="central">
+     <h2>Quiénes complementan al eneatipo</h2>
+     <p>Al relacionarse con los ocho eneatipos restantes, queda configurada la siguiente
+        vincularidad: cada eneatipo tiene dos eneatipos contiguos (alas); dos eneatipos
+        primarios (brazos); dos eneatipos consonantes (ejes) y dos eneatipos ajenos
+        (puntos ciegos), que señalan un sendero de crecimiento e integración.
+     </p>
+
       <h2>Ejes</h2>
       <p>Cada eneatipo tiene dos eneatipos consonantes, con los cuales constituye un eje.
       </p>

@@ -6,6 +6,13 @@
 @section('principal')
 
    <div class="central">
+     <h2>De dónde surgen estas características</h2>
+     <p>Según el eneagrama, cada eneatipo tiene una vivencia particular de la experiencia
+        intrauterina. A su vez, pertenece a un determinado centro energético
+        y focaliza la energía en un modo específico. Estos tres factores dan lugar a una
+        necesidad básica distintiva.
+     </p>
+
       <h2>Centros energéticos - Mecanismo de vincularidad</h2>
       <p>Existen tres centros energéticos: el visceral, el cerebral y el emocional. Algunas
          personas se conducirán en la vida desde sus instintos, otras desde su mente, y

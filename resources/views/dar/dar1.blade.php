@@ -6,10 +6,11 @@
 @section('principal')
    <div class="central">
       <h2>QUÉ LE REGALO DA A OTRAS TIPOLOGÍAS</h2>
-      <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
+      <p>Así como el eneagrama nos muestra los caminos de alejamiento de nosotros mismos, tiene también la virtud de indicar los caminos de encuentro con nosotros mismos. Cuando cada quien reconoció su necesidad distintiva, puede comenzar a trabajar sobre ella. Este proceso requiere una intención consciente y una minuciosa auto-observación</p>
+      {{-- <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
          es la misión de vida de cada eneatipo.
-      </p>
+      </p> --}}
       <ol>
          <li><a href="#dar1">El UNO regala</a></li>
          <li><a href="#dar2">El DOS regala</a></li>

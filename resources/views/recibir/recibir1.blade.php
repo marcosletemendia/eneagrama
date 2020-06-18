@@ -6,6 +6,7 @@
 @section('principal')
    <div class="central">
       <h2>Qué regalo recibe de otras tipologías</h2>
+      <p>Así como el eneagrama nos muestra los caminos de alejamiento de nosotros mismos, tiene también la virtud de indicar los caminos de encuentro con nosotros mismos. Cuando cada quien reconoció su necesidad distintiva, puede comenzar a trabajar sobre ella. Este proceso requiere una intención consciente y una minuciosa auto-observación</p>
       <ol>
          <li><a href='#ElUNO'>El UNO recibe</a></li>
          <li><a href='#ElDOS'>El DOS recibe</a></li>
