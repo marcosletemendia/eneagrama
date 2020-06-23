@@ -8,7 +8,7 @@
     <h2 style="font-weight:bold;">SER PARA HACER</h2>
     <p class='satisfy'>¿Quién soy? ¿Cómo soy? ¿Cuál es mi misión de vida? ¿Cómo miro y respondo al mundo y a las otras miradas?</p>
     <h3>Bienvenidos!!!!!</h3>
-    <p style="padding-top:0;">Somos <a href="/who">Mónica Ivanissevich y Jaqueline Pels</a> y, en nuestro libro <b>"Eneagrama Los números en nuestra vida"</b>, hacemos foco en dos conceptos innovadores: la necesidad básica distintiva de cada eneatipo y nuestra particular interpretación de la misión de vida.</p>
+    <p style="padding-top:0;">Somos <a href="/who">Mónica Ivanissevich y Jaqueline Pels</a> y, en nuestro libro <b>"Eneagrama Los números en nuestra vida"</b>, hacemos foco en dos conceptos innovadores: la necesidad básica distintiva de cada eneatipo y nuestra particular interpretación de la misión de vida. <br><br> Cualquier consulta contactanos acá: <u>mieneagrama.ba@gmail.com</u></p>
     <h3 class='home' style="font-weight:bold;">NUESTRA PROPUESTA</h3>
     <ul class='propuesta'>
       <li><b>- SER</b> nosotros mismos a lo largo del camino </li>

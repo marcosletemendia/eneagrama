@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- Optimal Internet Explorer compatibility -->
     <script src="https://kit.fontawesome.com/baa6d0d275.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Satisfy|Staatliches&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -108,14 +109,16 @@
         @endphp>Comprar el libro</a></h1>
  --}}
 
-        @if (Auth::user())
+        {{-- BOTON DEL LOGOFF --}}
+
+        {{-- @if (Auth::user())
           <a class="btn btn-danger" href="{{ route('logout') }}" role="button" onclick="event.preventDefault();
                                           document.getElementById('logout-form').submit();">Logout</a>
 
           <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
               @csrf
           </form>
-        @endif
+        @endif --}}
       </div>
     </section>
 

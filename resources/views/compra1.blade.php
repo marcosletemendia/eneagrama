@@ -13,7 +13,7 @@
             <form class="" action="/success/paypal" method="post">
               @csrf
               <script
-                src="https://www.paypal.com/sdk/js?client-id=ASGg1lzHNt1nuJ8loyWYr3_v97DpVxh3c5bQIq5fknSgrWjsGJODIISgN2o-Jpp6FF_1TaNF87HVrTcz"> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
+                src="https://www.paypal.com/sdk/js?client-id=AYYzVmM0Ssog0WtLAJFerJ6JWkBe7x7esy8h2epcoobAn_HBR2BD3s1wK2WSLf0Sjo8D6Khr6mOYnkLy"> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
               </script>
               <div id="paypal-button-container"></div>
                 <script>
@@ -23,7 +23,7 @@
                       return actions.order.create({
                         purchase_units: [{
                           amount: {
-                            value: '10.00'
+                            value: '5.00'
                           }
                         }]
                       });
@@ -44,17 +44,26 @@
             </form>
 
           @else
-            {{-- BOTON DE CHECKOUT --}}
-            <form action="/success" method="post">
+            {{-- BOTON DE CHECKOUT CON OBJETOS--}}
+            {{-- <form action="/success" method="post">
               @csrf
               <script
                src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
                data-preference-id="{{$preference->id}}">
               </script>
+            </form> --}}
+
+            {{-- BOTON DE PAGO JAQUIE--}}
+            <form action="/success" method="post">
+              @csrf
+              <script src="https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js"
+              data-preference-id="247338821-82fd7a48-b612-4e39-8c80-a0e1d43cf73f">
+              </script>
             </form>
 
 
-            {{-- BOTON DE PAGO --}}
+
+            {{-- BOTON DE PAGO MIO PROBANDO--}}
             {{-- <div class="botonpago">
               <form action="/success" method="post">
                 @csrf

@@ -5,7 +5,7 @@
 
 @section('principal')
    <div class="central">
-      <h2>QUÉ LE REGALO DA A OTRAS TIPOLOGÍAS</h2>
+      <h2>QUÉ LE REGALO DA A LAS OTRAS TIPOLOGÍAS</h2>
       <p>Así como el eneagrama nos muestra los caminos de alejamiento de nosotros mismos, tiene también la virtud de indicar los caminos de encuentro con nosotros mismos. Cuando cada quien reconoció su necesidad distintiva, puede comenzar a trabajar sobre ella. Este proceso requiere una intención consciente y una minuciosa auto-observación</p>
       {{-- <p>Así como cada eneatipo se enriquece en su contacto con los otros, también
          tiene sabidurías específicas para compartir con los demás. Compartir estas sabidurías
@@ -23,7 +23,7 @@
          <li><a href="#dar9">El NUEVE regala</a></li>
       </ol>
       <h3 id='dar1'> El UNO le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al DOS, pasar de ayudar a ayudarse. Le dice: <i>ORGANIZATE</i>.</li>
          <li>Al TRES, pasar del hacer descontrolado a un hacer ordenado. Le dice: <i>SISTEMATIZÁ</i>.</li>
          <li>Al CUATRO, pasar de la dispersión a la disciplina. Le dice: <i>ORDENATE</i>.</li>
@@ -35,7 +35,7 @@
          <li>Al NUEVE, pasar de la inercia a la iniciativa. Le dice: <i>MOVETE</i>.</li>
       </ul>
       <h3 id='dar2'> El DOS le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar del híper-criticismo a la empatía. Le dice: <i>ACOGÉ</i>.</li>
          <li>Al TRES, pasar de la búsqueda del éxito al contacto con las emociones.
             Le dice: <i>SENTÍ</i>.</li>
@@ -51,7 +51,7 @@
             <i>ACERCATE</i>.</li>
       </ul>
       <h3 id='dar3'> El TRES le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar del control a la posibilidad de tomar riesgos. Le dice:
             <i>JUGATE</i>.</li>
          <li>Al DOS, pasar del actuar para los demás a actuar para sí. Le dice:
@@ -64,7 +64,7 @@
          <li>Al NUEVE, pasar de la pasividad a la acción. Le dice: <i>HACÉ</i>.</li>
       </ul>
       <h3 id='dar4'> El CUATRO le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar de la forma al fondo. Le dice:<i> DISTINGUÍ</i>.</li>
          <li>Al DOS, pasar del foco en los otros al foco en sí mismo. Le dice: <i>MIRATE</i>.</li>
          <li>Al TRES, pasar del hacer al sentir. Le dice: <i>VIBRÁ</i>.</li>
@@ -78,7 +78,7 @@
             <i>GENUINO</i>.</li>
       </ul>
       <h3 id='dar5'> El CINCO le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar de la acción a la contemplación. Le dice: <i>ANALIZÁ</i>.</li>
          <li>Al DOS, pasar de un dar intencionado a un dar desinteresado. Le dice:
             <i>DIFERENCIÁ</i>.</li>
@@ -91,7 +91,7 @@
             nada que agregar. Le dice: <i>DISCERNÍ</i>.</li>
       </ul>
       <h3 id='dar6'> El SEIS le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar de la autoridad interior a la exterior. Le dice: <i>ACEPTÁ</i>.</li>
          <li>Al DOS, pasar del dar al recibir. Le dice: <i>PEDÍ</i>.</li>
          <li>Al TRES, pasar del formar equipos a integrar equipos. Le dice: <i>SUMATE</i>.</li>
@@ -102,7 +102,7 @@
          <li>Al NUEVE, pasar de la imparcialidad a la preferencia. Le dice: <i>COMPROMETETE</i>.</li>
       </ul>
       <h3 id='dar7'> El SIETE le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar del control a la distención. Le dice: <i>DISFRUTÁ</i>.</li>
          <li>Al DOS, pasar del implicarse al divertirse. Le dice: <i>RELAJATE</i>.</li>
          <li>Al TRES, pasar del trabajar al entretenerse. Le dice: <i>VIVÍ</i>.</li>
@@ -113,7 +113,7 @@
          <li>Al NUEVE, pasar de quedarse a salir. Le dice: <i>DIVERTITE</i>.</li>
       </ul>
       <h3 id='dar8'> El OCHO le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar de la atadura a las formas a poder rebelarse. Le dice:
             <i>ARRIESGATE</i>.</li>
          <li>Al DOS, pasar de estar siempre disponible a darse un lugar. Le dice:
@@ -128,7 +128,7 @@
          <li>Al NUEVE, pasar de la neutralidad a la pasión. Le dice: <i>JUGATE</i>.</li>
       </ul>
       <h3 id='dar9'> El NUEVE le regala:</h3>
-      <ul style="padding-top:1%;">
+      <ul style="padding-top:1%;" class="text-left">
          <li>Al UNO, pasar de la ira a la serenidad. Le dice: <i>TRANQUILIZATE</i>.</li>
          <li>Al DOS, pasar de la hiperactividad al sosiego. Le dice: <i>PARÁ</i>.</li>
          <li>Al TRES, pasar del hacer desenfrenado a parar. Le dice: <i>SERENATE</i>.</li>
