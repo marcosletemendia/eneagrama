@@ -5,7 +5,7 @@
 
 @section('principal')
    <div class="central">
-      <h2>EL UNO: ¿Cómo es en las realciones?</h2>
+      <h2>EL UNO: ¿Cómo es en las relaciones?</h2>
 
       <p>Estas características, en el plano social lo llevan a hacer lo mejor posible y a
          dar una imagen ejemplar de sí, como condición para ser aceptado. Por lo tanto,
