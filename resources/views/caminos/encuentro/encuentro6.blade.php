@@ -15,7 +15,7 @@
          es central y requiere poner en primer plano al hecho sin cargarlo de significado
          o intencionalidad. A fin de lograrlo, sería fundamental que reconociera
          que esta vivencia no es real, es una interpretación subjetiva del nacimiento.
-         Para trabajar su Ser, debería desarrollar la habilidad de observase y dejar pasar
+         Para trabajar su Ser, debería desarrollar la habilidad de observarse y dejar pasar
          los hábitos que lo han llevado a emplear como mecanismo de vincularidad la
          seguridad, relacionado a su pertenencia al centro energético cerebral. Finalmente,
          debería reconocer que el mecanismo de manejo de la energía cerebral
