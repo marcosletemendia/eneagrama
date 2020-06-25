@@ -78,13 +78,13 @@
     <section>
 
       <div class="test">
-        <h1><a href="/pag1t">Test de Eneatipo</a></h1>
+        <h1 style="padding-top: 0;"><a href="/pag1t">Test de Eneatipo</a></h1>
       </div>
       @yield('principal')
 
-      <div class="test">
+      <div style="display: block; overflow: hidden;" class="test">
 
-        <h1>
+        <h1 style="height: 80%; margin: 0;  padding-top: 18%;">
           @if (Auth::user())
             @if (Auth::user()->collection_status=='approved')
               <a href="/download">Descargar el libro</a>
@@ -95,6 +95,9 @@
               <a href="/auth/login">Comprar el libro</a>
           @endif
         </h1>
+        <p id="test2">
+          Precio: US$5 / ARG$500
+        </p>
 
         {{-- <h1><a href=@php if (Auth::check()){
         if (Auth::user()->collection_status==NULL ) {
