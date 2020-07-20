@@ -27,7 +27,12 @@
     <div class="descubri">
       <a href="/pag1t" class='algo'>Descubrí tu eneatipo</a>
     </div>
-      </div>
+    <br><br>
+    <div class="">
+      <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=iznYORnEML7XeuVWtav7avsbGGyHDafLTjp1pJadW00GJu9nNlhOdEHL7KMD"></script></span>
+    </div>
+
+    </div>
   </div>
 
 
