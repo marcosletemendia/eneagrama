@@ -95,9 +95,9 @@
               <a href="/auth/login">Comprar el libro</a>
           @endif
         </h1>
-        <p id="test2">
+        {{-- <p id="test2">
           Precio: US$5 / ARG$500
-        </p>
+        </p> --}}
 
         {{-- <h1><a href=@php if (Auth::check()){
         if (Auth::user()->collection_status==NULL ) {
