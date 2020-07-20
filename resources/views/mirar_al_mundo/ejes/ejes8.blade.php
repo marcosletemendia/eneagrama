@@ -18,6 +18,8 @@
          que le da acceso a vivencias interiores. El CUATRO lo ayuda a pasar del
          poder de dominio, a la fuerza creadora interior.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo3">TRES</a>
+         y el <a href="/mirarme/eneatipo4">CUATRO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>

@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala9.jpg" class="img_enea">
       </div>
-      <p>Las alas del NUEVE son: el <a href="/mirarme/eneatipo8">OCHO</a> y el <a href="/mirarme/eneatipo1">UNO.</a>
+      <p>Las alas del NUEVE son: el OCHO y el UNO.
       </p>
       <p>¿Cómo es el OCHO y qué le trae al NUEVE? El OCHO es el “líder”. Siente
          visceralmente la necesidad de luchar por las cosas en las que cree, sin dejarse
@@ -30,6 +30,8 @@
          el ala UNO, se vuelve activo y capaz de dar vida a nuevos proyectos. Aunque
          también puede volverse arbitrario y rígido. El UNO le trae al NUEVE la posibilidad
          de pasar de la inercia a la iniciativa.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo8">OCHO</a> y el <a href="/mirarme/eneatipo1">UNO.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

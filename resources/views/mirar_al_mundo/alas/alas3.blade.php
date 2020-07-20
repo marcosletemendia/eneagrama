@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala3.jpg" class="img_enea">
       </div>
-      <p>Las alas del TRES son: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo4">CUATRO.</a>
+      <p>Las alas del TRES son: el DOS y el CUATRO.
       </p>
       <p>¿Cómo es el DOS y que le trae al TRES? El DOS es “el que da”. La relación,
          entendida como amor y/o amistad, es la dimensión más importante de
@@ -33,6 +33,8 @@
          más auténtico, sensible, artístico e intuitivo. Aunque también puede llegar a
          ser presuntuoso, arrogante y soñador. El CUATRO le trae al TRES la posibilidad
          de pasar del hacer al sentir.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo4">CUATRO.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

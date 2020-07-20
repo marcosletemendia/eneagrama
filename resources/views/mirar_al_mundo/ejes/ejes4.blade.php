@@ -18,6 +18,8 @@
          equilibrado lo ayuda a alcanzar la paz interior. El NUEVE lee trae al CUATRO la
          posibilidad de pasar de la comparación a la autovaloración.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo8">OCHO</a>
+         y el <a href="/mirarme/eneatipo9">NUEVE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>

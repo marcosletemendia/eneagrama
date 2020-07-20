@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala6.jpg" class="img_enea">
       </div>
-      <p>Las alas del SEIS son: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo7">SIETE.</a>
+      <p>Las alas del SEIS son: el CINCO y el SIETE.
       </p>
       <p>¿Cómo es el CINCO y qué le trae al SEIS? El CINCO es el “observador”.
          Reflexiona sobre los misterios de la vida. Es contemplativo, delicado, amable,
@@ -31,6 +31,8 @@
          estructurado. Aunque también puede volverse fantasioso, impulsivo y hedonista,
          para evadirse. El SIETE le trae al SEIS la posibilidad de pasar de la duda a la
          espontaneidad.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo7">SIETE.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

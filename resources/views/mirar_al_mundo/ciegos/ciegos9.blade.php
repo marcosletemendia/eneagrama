@@ -10,8 +10,8 @@
       <div>
          <img src="/img/ciego9.jpg" class="img_enea">
       </div>
-      <p>El NUEVE es ciego al eje de la comunicación, representado por el <a href="/mirarme/eneatipo2">DOS</a>
-         y el <a href="/mirarme/eneatipo7">SIETE</a> en cada extremo. En modos opuestos complementarios, el DOS y el
+      <p>El NUEVE es ciego al eje de la comunicación, representado por el DOS
+         y el SIETE en cada extremo. En modos opuestos complementarios, el DOS y el
          SIETE le permitirán al NUEVE salir de su pasividad y acercarse a los otros. El DOS
          es “el que da”. La relación entendida como amor y/o amistad, es la dimensión
          más importante de su existencia. El DOS le trae al NUEVE la posibilidad de pasar
@@ -20,6 +20,8 @@
          cuanto estimulante y gratificante pueda ofrecerle la vida. El SIETE le trae al
          NUEVE la posibilidad de pasar de quedarse a salir.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo2">DOS</a>
+         y el <a href="/mirarme/eneatipo7">SIETE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

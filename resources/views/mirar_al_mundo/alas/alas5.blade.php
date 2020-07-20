@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala5.jpg" class="img_enea">
       </div>
-      <p>Las alas del CINCO son: el <a href="/mirarme/eneatipo4">CUATRO</a> y el <a href="/mirarme/eneatipo6">SEIS.</a>
+      <p>Las alas del CINCO son: el CUATRO y el SEIS.
       </p>
       <p>¿Cómo es el CUATRO y qué le trae al CINCO? El CUATRO es “el creativo”.
          Siente intensamente la energía de la vida. Tiene la convicción de que las normas
@@ -32,6 +32,8 @@
          el ala SEIS, se vuelve más colaborativo, responsable, aplicado y fiel. Aunque
          también puede volverse temeroso y desconfiado. El SEIS le trae al CINCO la
          posibilidad de pasar del saber para sí al saber para todos.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo4">CUATRO</a> y el <a href="/mirarme/eneatipo6">SEIS.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

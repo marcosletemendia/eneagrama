@@ -18,6 +18,8 @@
          importante de su existencia y su generosidad lo lleva a actuar en consecuencia.
          El DOS le permite pasar de la desconfianza al entusiasmo de brindarse.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo1">UNO</a>
+         y el <a href="/mirarme/eneatipo2">DOS</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>

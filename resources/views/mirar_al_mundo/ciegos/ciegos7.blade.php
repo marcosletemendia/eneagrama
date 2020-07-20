@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ciego7.png" class="img_enea">
       </div>
-      <p>El SIETE es ciego al eje de la interioridad, representado por el <a href="/mirarme/eneatipo4">CUATRO</a> y <a href="/mirarme/eneatipo9">NUEVE</a>
+      <p>El SIETE es ciego al eje de la interioridad, representado por el CUATRO y NUEVE
          el en cada extremo. En modos opuestos complementarios, el CUATRO y NUEVE
          le permitirán al SIETE sosegarse. El CUATRO es el “creativo”. Posee una gran riqueza
          emotiva, que lo lleva a una profunda necesidad de intimidad. El CUATRO
@@ -19,6 +19,7 @@
          ser ecuánime, tranquilo y armónico. El NUEVE le trae al SIETE la posibilidad de
          pasar de la febrilidad al equilibrio.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo4">CUATRO</a> y <a href="/mirarme/eneatipo9">NUEVE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

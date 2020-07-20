@@ -18,6 +18,8 @@
          la parte hermosa y positiva de la vida. El SIETE le trae al DOS la posibilidad de
          pasar de implicarse a divertirse.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo6">SEIS</a>
+         y el <a href="/mirarme/eneatipo7">SIETE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes">Ejes </a></li>

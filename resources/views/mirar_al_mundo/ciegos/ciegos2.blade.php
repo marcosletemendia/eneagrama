@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ciego2.jpg" class="img_enea">
       </div>
-      <p>El DOS es ciego al <i>eje de la contemplación</i>, representado por el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo9">NUEVE</a>
+      <p>El DOS es ciego al <i>eje de la contemplación</i>, representado por el CINCO y el NUEVE
          en cada extremo. En modos opuestos complementarios, el CINCO Y el NUEVE
          le permitirán al DOS conectarse consigo mismo y decirse <i>“estoy bien en soledad”</i>.
          El CINCO es el “observador”, se aísla para poder observar la realidad y, de
@@ -22,6 +22,7 @@
          los demás. El NUEVE le trae al DOS la posibilidad de pasar de la hiperactividad
          al sosiego.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo9">NUEVE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos">Puntos ciegos</a></li>

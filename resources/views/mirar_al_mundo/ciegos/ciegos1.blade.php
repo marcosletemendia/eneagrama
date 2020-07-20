@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ciego1.jpg" class="img_enea">
       </div>
-      <p>El UNO es ciego al <i>eje de la independencia</i>, representado por el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo8">OCHO</a>
+      <p>El UNO es ciego al <i>eje de la independencia</i>, representado por el TRES y el OCHO
          en cada extremo. En modos opuestos complementarios, el TRES y el OCHO le
          permitirán al UNO salir de su rigidez y decirse <i>“yo puedo”</i>. El TRES es “el exitoso”,
          es una persona optimista, eficiente, práctica, emprendedora, confiada,
@@ -20,6 +20,7 @@
          modo de ser y de relacionarse. El OCHO le trae al UNO la independencia que le
          permite pasar de la atadura a la forma a rebelarse.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo8">OCHO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos">Puntos ciegos</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

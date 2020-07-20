@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos6.jpg" class="img_enea">
       </div>
-      <p>Los brazos del SEIS son: el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo9">NUEVE.</a> En un primer
+      <p>Los brazos del SEIS son: el TRES y el NUEVE. En un primer
          momento, el SEIS se siente identificado con los aspectos del TRES y, posteriormente,
          con los del NUEVE.
       </p>
@@ -34,6 +34,7 @@
          podido animarse (TRES) con serenidad (NUEVE) puede avanzar un paso más en
          su camino y obrar con convicción (TRES).
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo9">NUEVE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos1">Brazos del UNO</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos2">Brazos del DOS</a></li>

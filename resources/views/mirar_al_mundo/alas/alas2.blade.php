@@ -11,7 +11,7 @@
       <div>
          <img src="/img/ala2.jpg" class="img_enea">
       </div>
-      <p>Las alas del DOS son: el <a href="/mirarme/eneatipo1">UNO</a> y <a href="/mirarme/eneatipo3">el TRES.</a>
+      <p>Las alas del DOS son: el UNO y el TRES.
       </p>
       <p>¿Cómo es el UNO y qué le trae al DOS? El UNO es “el idealista”. Su energía
          se canaliza en el esfuerzo por mejorar la realidad, tanto dentro como fuera
@@ -36,6 +36,8 @@
          de sí, con deseo de concretar. Aunque también puede volverse manipulador
          y competitivo. El TRES le trae al DOS la posibilidad de pasar del actuar para los
          demás a actuar para sí.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo1">UNO</a> y el <a href="/mirarme/eneatipo3">TRES.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

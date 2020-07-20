@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos7.png" class="img_enea">
       </div>
-      <p>Los brazos del SIETE son: el <a href="/mirarme/eneatipo1">UNO</a> y el <a href="/mirarme/eneatipo5">CINCO.</a> En un primer
+      <p>Los brazos del SIETE son: el UNO y el CINCO. En un primer
          momento, el SIETE se siente identificado con los aspectos del UNO y, posteriormente,
          con los del CINCO.
       </p>
@@ -36,6 +36,7 @@
          (CINCO), puede avanzar un paso más en su camino y accionar en forma
          sostenida (OCHO).
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo1">UNO</a> y el <a href="/mirarme/eneatipo5">CINCO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos1">Brazos del UNO</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos2">Brazos del DOS</a></li>

@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala1.jpg" class="img_enea">
       </div>
-      <p>Las alas del UNO son: el <a href="/mirarme/eneatipo9">NUEVE</a> y <a href="/mirarme/eneatipo2">el DOS.</a>
+      <p>Las alas del UNO son: el NUEVE y el DOS.
       </p>
       <p>¿Cómo es el NUEVE y qué le trae al UNO? El NUEVE es el “pacificador”.
          Siente visceralmente el anhelo de armonía. Actúa como intermediario o
@@ -35,6 +35,8 @@
          más altruista, más generoso, y más misericordioso. Aunque también puede
          volverse manipulador y/o descuidado consigo mismo. El DOS le trae al UNO la
          posibilidad de pasar del hipercriticismo a la empatía.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo9">NUEVE</a> y el <a href="/mirarme/eneatipo2">DOS.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas">Alas</a></li>

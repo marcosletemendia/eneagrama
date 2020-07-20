@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos5.jpg" class="img_enea">
       </div>
-      <p>Los brazos del CINCO son: el <a href="/mirarme/eneatipo7">SIETE</a> y el <a href="/mirarme/eneatipo8">OCHO</a>. En un
+      <p>Los brazos del CINCO son: el SIETE y el OCHO. En un
          primer momento, el CINCO se siente identificado con los aspectos del SIETE y,
          posteriormente, con los del OCHO.
       </p>
@@ -34,6 +34,7 @@
          ha podido salir del lugar de espectador (OCHO), puede avanzar un paso más en
          su camino y poner lo que sabe al servicio de los demás (DOS).
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo7">SIETE</a> y el <a href="/mirarme/eneatipo8">OCHO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos1">Brazos del UNO</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos2">Brazos del DOS</a></li>

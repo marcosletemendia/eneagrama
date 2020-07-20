@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ciego8.jpg" class="img_enea">
       </div>
-      <p>El OCHO es ciego al eje del deber ser, representado por el <a href="/mirarme/eneatipo1">UNO</a> y el <a href="/mirarme/eneatipo6">SEIS</a> en cada
+      <p>El OCHO es ciego al eje del deber ser, representado por el UNO y el SEIS en cada
          extremo. En modos opuestos complementarios, el UNO y el SEIS le permitirán
          al OCHO salir de su rebeldía e intentar integrarse. El UNO es “el idealista”. Se
          esfuerza por mejorar la realidad, tanto dentro como fuera de sí mismo, para
@@ -21,6 +21,7 @@
          Valora los principios basados en la participación libre y la aceptación
          reciprocas. El SEIS le trae al OCHO la posibilidad de pasar de liderar a colaborar.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo1">UNO</a> y el <a href="/mirarme/eneatipo6">SEIS</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

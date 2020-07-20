@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala4.jpg" class="img_enea">
       </div>
-      <p>Las alas del CUATRO son: el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo5">CINCO.</a>
+      <p>Las alas del CUATRO son: el TRES y el CINCO.
       </p>
       <p>¿Cómo es el TRES y qué le trae al CUATRO? El TRES es “el exitoso”. En
          él pulsa el desafío de la vida. Le resulta fácil llevar a cabo sus cometidos de
@@ -34,6 +34,8 @@
          Si el CUATRO tiene desarrollada el ala CINCO, se vuelve más objetivo y
          analítico. Aunque también pueda volverse más aislado y misterioso. El CINCO
          le trae al CUATRO la posibilidad de pasar de la subjetividad a la universalidad.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo3">TRES</a> y el <a href="/mirarme/eneatipo5">CINCO.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

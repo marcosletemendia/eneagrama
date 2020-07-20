@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos1.jpg" class="img_enea">
       </div>
-      <p>Los brazos del UNO son: el <a href="/mirarme/eneatipo4">CUATRO</a> y el <a href="/mirarme/eneatipo7">SIETE.</a> En un
+      <p>Los brazos del UNO son: el CUATRO y el SIETE. En un
          primer momento, el UNO se siente identificado con aspectos del CUATRO y,
          posteriormente, con los del SIETE.
       </p>
@@ -37,6 +37,7 @@
          la capacidad de soltar y aflojarse (SIETE), puede avanzar un paso más en su
          camino, tomar distancia y contemplar (CINCO).
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo4">CUATRO</a> y el <a href="/mirarme/eneatipo7">SIETE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos">Brazos</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos2">Brazos del DOS</a></li>

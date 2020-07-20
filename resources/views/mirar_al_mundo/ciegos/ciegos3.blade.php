@@ -10,8 +10,8 @@
       <div>
          <img src="/img/ciego3.jpg" class="img_enea">
       </div>
-      <p>El TRES es ciego al eje del orden, representado por el <a href="/mirarme/eneatipo1">UNO</a> y el
-         <a href="/mirarme/eneatipo5">CINCO</a> en cada extremo. En modos opuestos complementarios, el UNO y el
+      <p>El TRES es ciego al eje del orden, representado por el UNO y el
+         CINCO en cada extremo. En modos opuestos complementarios, el UNO y el
          CINCO le permitirán al TRES salirse de su hacer frenético. El UNO es “el idealista”,
          es una persona activa, capaz de tomar la iniciativa y dar vida a nuevos proyectos.
          Sus actitudes se basan en su autodisciplina y su organización. El UNO le
@@ -20,6 +20,8 @@
          (ordenar conceptos). El CINCO, le trae al TRES la posibilidad de teorizar antes
          de actuar.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo1">UNO</a> y el
+         <a href="/mirarme/eneatipo5">CINCO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

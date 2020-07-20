@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos2.jpg" class="img_enea">
       </div>
-      <p>Los brazos del DOS son: el <a href="/mirarme/eneatipo8">OCHO</a> y el <a href="/mirarme/eneatipo4">CUATRO.</a> En un
+      <p>Los brazos del DOS son: el OCHO y el CUATRO. En un
          primer momento, el DOS se siente identificado con los aspectos del OCHO y,
          posteriormente, con los del CUATRO.
       </p>
@@ -30,6 +30,7 @@
          (OCHO), conectarse consigo mismo y reconocer cuáles son sus necesidades
          (CUATRO) puede avanzar un paso y tomarse en cuenta (UNO).
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo8">OCHO</a> y el <a href="/mirarme/eneatipo4">CUATRO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos1">Brazos del UNO</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos">Brazos</a></li>

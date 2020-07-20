@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ciego5.jpg" class="img_enea">
       </div>
-      <p>El CINCO es ciego al eje de la exterioridad, representado por el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo3">TRES</a>
+      <p>El CINCO es ciego al eje de la exterioridad, representado por el DOS y el TRES
          en cada extremo. En modos opuestos complementarios, el DOS y el TRES le
          permitirán al CINCO salir de su aislamiento. El DOS es “el altruista”. Sus dotes
          sociales y capacidad de entrega, lo llevan a intuir las necesidades del prójimo.
@@ -21,6 +21,7 @@
          vibrante y con un ritmo de vida de alta velocidad. El TRES le trae al CINCO la
          posibilidad de pasar de la reclusión al movimiento.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo3">TRES</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

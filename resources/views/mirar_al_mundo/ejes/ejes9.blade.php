@@ -21,6 +21,8 @@
          la realidad en detalle. El CINCO le trae al NUEVE la posibilidad de discernir entre
          callar para no confrontar y callar por no tener nada que agregar
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo4">CUATRO</a>
+         y el <a href="/mirarme/eneatipo5">CINCO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>

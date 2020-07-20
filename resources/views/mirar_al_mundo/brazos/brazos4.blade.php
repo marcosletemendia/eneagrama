@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos4.jpg" class="img_enea">
       </div>
-      <p>Los brazos del CUATRO son: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo1">UNO.</a> En un primer
+      <p>Los brazos del CUATRO son: el DOS y el UNO. En un primer
          momento, el CUATRO se siente identificado con los aspectos del DOS y,
          posteriormente, con los del UNO.
       </p>
@@ -30,6 +30,7 @@
          podido ver a los demás (DOS) y ha aprendido a organizarse (UNO), puede avanzar
          un paso más en su camino y disfrutar la vida (SIETE).
       </p>
+        <p>Los eneatipos de: el <a href="/mirarme/eneatipo2">DOS</a> y el <a href="/mirarme/eneatipo1">UNO</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos1">Brazos del UNO</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos2">Brazos del DOS</a></li>

@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ciego4.jpg" class="img_enea">
       </div>
-      <p>El CUATRO es ciego al eje de la pertenencia, representado por el <a href="/mirarme/eneatipo6">SEIS</a> y el <a href="/mirarme/eneatipo7">SIETE</a>
+      <p>El CUATRO es ciego al eje de la pertenencia, representado por el SEIS y el SIETE
          en cada extremo. En modos opuestos complementarios, el SEIS y el SIETE le
          permitirán al CUATRO “sentirse parte de”. El SEIS es el “confiable”. Se caracteriza
          por la colaboración, la lealtad, la responsabilidad y fidelidad a las personas
@@ -20,6 +20,7 @@
          En el otro extremo del eje, la pertenencia del SIETE a “la vida”, le trae al
          CUATRO pasar de la melancolía a la alegría.
       </p>
+      <p>Los eneatipos de:  el <a href="/mirarme/eneatipo6">SEIS</a> y el <a href="/mirarme/eneatipo7">SIETE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ciegos/ciegos1">Puntos ciegos del UNO</a></li>
          <li><a href="/mirar_al_mundo/ciegos/ciegos2">Puntos ciegos del DOS</a></li>

@@ -19,6 +19,8 @@
          normas de actuación. El SEIS le trae al UNO la posibilidad de pasar de la autoridad
          interior a la exterior.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo5">CINCO</a>
+         y el <a href="/mirarme/eneatipo6">SEIS</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes">Ejes</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>

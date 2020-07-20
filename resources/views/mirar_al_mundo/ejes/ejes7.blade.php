@@ -20,6 +20,8 @@
          necesidades del prójimo. El DOS le trae al SIETE la posibilidad de pasar de la
          insensibilidad al cuidado de los afectos.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo3">TRES</a>
+         y el <a href="/mirarme/eneatipo2">DOS</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>

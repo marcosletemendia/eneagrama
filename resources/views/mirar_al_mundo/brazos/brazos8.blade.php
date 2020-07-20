@@ -10,7 +10,7 @@
       <div>
          <img src="/img/brazos8.jpg" class="img_enea">
       </div>
-      <p>Los brazos del OCHO son: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo2">DOS.</a> En un primer
+      <p>Los brazos del OCHO son: el CINCO y el DOS. En un primer
          momento, el OCHO se siente identificado con los aspectos del CINCO y,
          posteriormente, con los del DOS.
       </p>
@@ -34,6 +34,7 @@
          ser cauteloso (CINCO) y ha aprendido a ser respetuoso (DOS) puede avanzar un
          paso más en su camino, y desarrollar la fuerza creadora interior (CUATRO).
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo5">CINCO</a> y el <a href="/mirarme/eneatipo2">DOS</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/brazos/brazos1">Brazos del UNO</a></li>
          <li><a href="/mirar_al_mundo/brazos/brazos2">Brazos del DOS</a></li>

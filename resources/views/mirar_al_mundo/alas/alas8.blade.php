@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala8.jpg" class="img_enea">
       </div>
-      <p>Las alas del OCHO son: el <a href="/mirarme/eneatipo7">SIETE</a> y el <a href="/mirarme/eneatipo9">NUEVE.</a>
+      <p>Las alas del OCHO son: el SIETE y el NUEVE.
       </p>
       <p>¿Cómo es el SIETE y qué le trae al OCHO? El SIETE es “el optimista”.
          Fantasea sobre las infinitas posibilidades que ofrece la vida. Estima como un
@@ -31,6 +31,8 @@
          el ala NUEVE, se vuelve más gentil, receptivo y bondadoso. Aunque
          también puede volverse obstinado y distante. El NUEVE le trae al OCHO la posibilidad
          de pasar de la pasión a la mesura.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo7">SIETE</a> y el <a href="/mirarme/eneatipo9">NUEVE.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

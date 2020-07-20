@@ -10,7 +10,7 @@
       <div>
          <img src="/img/ala7.png" class="img_enea">
       </div>
-      <p>Las alas del SIETE son: el <a href="/mirarme/eneatipo6">SEIS</a> y el <a href="/mirarme/eneatipo8">OCHO.</a>
+      <p>Las alas del SIETE son: el SEIS y el OCHO.
       </p>
       <p>¿Cómo es el SEIS y qué le trae al SIETE? El SEIS es el “confiable”. Se
          caracteriza básicamente por: la colaboración, orientada a promover la participación;
@@ -35,6 +35,8 @@
          mando y más confiado. Aunque también puede volverse egocéntrico, agresivo
          y competitivo. El OCHO le trae al SIETE la posibilidad de pasar de la evasión a
          sostener.
+      </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo6">SEIS</a> y el <a href="/mirarme/eneatipo8">OCHO.</a>
       </p>
       <ol>
          <li><a href="/mirar_al_mundo/alas/alas1">Alas del UNO</a></li>

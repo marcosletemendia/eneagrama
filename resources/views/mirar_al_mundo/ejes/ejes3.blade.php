@@ -21,6 +21,8 @@
          centro de su vida. El OCHO le trae al TRES las posibilidad de pasar de un hacer
          en pos del éxito a un hacer ético.
       </p>
+      <p>Los eneatipos de: el <a href="/mirarme/eneatipo8">OCHO</a>
+         y el <a href="/mirarme/eneatipo7">SIETE</a>.</p>
       <ol>
          <li><a href="/mirar_al_mundo/ejes/ejes1">Ejes del UNO</a></li>
          <li><a href="/mirar_al_mundo/ejes/ejes2">Ejes del DOS</a></li>
