@@ -92,12 +92,32 @@
               <a href="/compra">Comprar el libro</a>
             @endif
           @else
-              <a href="/auth/login">Comprar el libro</a>
+              <a href="/auth/login">Comprar el libro</a> <button type="button" class="btn-light"><i class="fas fa-comment-dollar" data-toggle="modal" data-target="#exampleModal"></i></button>
+              {{-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Launch demo modal</button> --}}
+          <!-- Modal -->
+          <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">El libro cuesta $ARS 500 y/o $US 10</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                {{-- <div class="modal-body">
+                  ...
+                </div> --}}
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
           @endif
         </h1>
-        <p id="test2">
+        {{-- <p id="test2">
           Precio: US$5 / ARG$500
-        </p>
+        </p> --}}
 
         {{-- <h1><a href=@php if (Auth::check()){
         if (Auth::user()->collection_status==NULL ) {
