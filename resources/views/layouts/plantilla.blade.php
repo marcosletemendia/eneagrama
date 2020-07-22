@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- Optimal Internet Explorer compatibility -->
-    <script src="https://kit.fontawesome.com/baa6d0d275.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Satisfy|Staatliches&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <title>@yield('titulo')</title>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173139878-1"></script>
     <script>
@@ -18,7 +11,16 @@
 
       gtag('config', 'UA-173139878-1');
     </script>
-    
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- Optimal Internet Explorer compatibility -->
+    <script src="https://kit.fontawesome.com/baa6d0d275.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Satisfy|Staatliches&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>@yield('titulo')</title>
+
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light shadow mb-5 rounded">
@@ -109,7 +111,7 @@
             <div class="modal-dialog">
               <div class="modal-content">
                 <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">El libro cuesta $ARS 500 y/o $US 10</h5>
+                  <h5 class="modal-title" id="exampleModalLabel">El libro cuesta $ARS 500 y/o $US 5</h5>
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
